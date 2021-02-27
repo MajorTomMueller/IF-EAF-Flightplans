@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+<!--EGUL RAF Lakenheath-->
+    <waypoint>
+      <identifier>EGUL</identifier>
+      <lat>52.409403</lat>
+      <lon>0.561011</lon>
+      <elevation>9.7536</elevation>
+      <comment>RAF Lakenheath</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>OTMUK</identifier>
+      <lat>52.3913</lat>
+      <lon>0.5178</lon>
+      <elevation>69.49</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>UMBAG</identifier>
+      <lat>52.34777778</lat>
+      <lon>0.7825</lon>
+      <comment>EGUL 24 Dep south</comment>
+    </waypoint>
+<!--EGUL ILS RWY24-->
+    <waypoint>
+      <identifier>ASRAM</identifier>
+      <lat>52.5472056</lat>
+      <lon>0.9498972</lon>
+      <elevation>762</elevation>
+      <comment>EGUL IAP</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>UNVUT</identifier>
+      <lat>52.4817</lat>
+      <lon>0.7846</lon>
+      <elevation>670.56</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ODEXA</identifier>
+      <lat>52.4707</lat>
+      <lon>0.7084</lon>
+      <elevation>548.64</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>LUGED</identifier>
+      <lat>52.4517</lat>
+      <lon>0.6625</lon>
+      <elevation>396.24</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>XERSA</identifier>
+      <lat>52.4216</lat>
+      <lon>0.5902</lon>
+      <elevation>69.49</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>RWY24</identifier>
+      <lat>52.414658519</lat>
+      <lon>0.573608790</lon>
+      <elevation>9.7536</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>RWY06</identifier>
+      <lat>52.404089889</lat>
+      <lon>0.548305082</lon>
+      <elevation>9.7536</elevation>
+    </waypoint>
+<!--NL TACAN Waypoints-->
+    <waypoint>
+      <identifier>NAVPI</identifier>
+      <lat>52.5472222</lat>
+      <lon>02.8405556</lon>
+      <comment>NL TACAN NAVPI, entry from UK</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>BERG</identifier>
+      <lat>52.6666667</lat>
+      <lon>04.5166667</lon>
+      <comment>NL Bene Route BERG</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>ANDY</identifier>
+      <lat>52.7666667</lat>
+      <lon>05.2000000</lon>
+      <comment>NL Bene Route ANDY</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>BZDK</identifier>
+      <lat>53.0166667</lat>
+      <lon>05.2166667</lon>
+      <comment>NL Bene Route BZDKentry VL</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>MC2</identifier>
+      <lat>52.50</lat>
+      <lon>04.05</lon>
+      <comment>NL TACAN MC2, LWD R-238/75 DME</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>MC3</identifier>
+      <lat>53.00</lat>
+      <lon>05.20</lon>
+      <comment>NL TACAN MC3, LWD R-238/24 DME</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>MC4</identifier>
+      <lat>53.5666667</lat>
+      <lon>06.6083333</lon>
+      <comment>NL TACAN MC4, LWD R-058/37 DME </comment>
+    </waypoint>
+    <waypoint>
+      <identifier>MC5</identifier>
+      <lat>52.5916667</lat>
+      <lon>07.0591667</lon>
+      <comment>NL TACAN MC5, TBN</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>MC9</identifier>
+      <lat>53.50</lat>
+      <lon>03.65</lon>
+      <comment>NL TACAN MC9, LWD R-286/76 DME</comment>
+    </waypoint>
+<!--Cornfield Range Waypoints-->
+    <waypoint>
+      <identifier>DELTA</identifier>
+      <lat>53.023</lat>
+      <lon>5.2131667</lon>
+      <comment>Cornfield in Point DELTA</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LWD44</identifier>
+      <lat>53.3208333</lat>
+      <lon>04.5411667</lon>
+      <elevation>1676.4</elevation>
+      <comment>Cornfield out 289° DME 44nm LWD left turn </comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LWD45</identifier>
+      <lat>53.2186667</lat>
+      <lon>04.5053333</lon>
+      <elevation>3657.6</elevation>
+      <comment>Cornfield out left turn 88° DME 44nm LWD</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>NOVEMBER</identifier>
+      <lat>53.3821667</lat>
+      <lon>04.9248333</lon>
+      <elevation>914.4</elevation>
+      <comment>Cornfield out Point NOVEMBER</comment>
+    </waypoint>
+<!--Cornfield Range Targets-->
+    <waypoint>
+      <identifier>VL-Ap</identifier>
+      <lat>53.2375556</lat>
+      <lon>4.9175028</lon>
+      <comment>Cornfield first Pile Tgt A 316°</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-A</identifier>
+      <lat>53.2406083</lat>
+      <lon>4.9125278</lon>
+      <comment>Cornfield Tgt A, LGB</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-Bp</identifier>
+      <lat>53.2370861</lat>
+      <lon>4.9304722</lon>
+      <comment>Cornfield first pile Tgt B 316°</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-B</identifier>
+      <lat>53.2439389</lat>
+      <lon>4.9193889</lon>
+      <comment>Cornfield Tgt B, strafe Panel</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-Cp</identifier>
+      <lat>53.2378472</lat>
+      <lon>4.9317750</lon>
+      <comment>Cornfield first pile Tgt C 316°</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-C</identifier>
+      <lat>53.2451750</lat>
+      <lon>4.9197889</lon>
+      <comment>Cornfield Tgt C, HE munition, 2 armoured Tanks</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-D</identifier>
+      <lat>53.2416972</lat>
+      <lon>4.9282667</lon>
+      <comment>Cornfield Tgt D, alternat Bomb 'Heap of Junk'</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-E</identifier>
+      <lat>53.2281583</lat>
+      <lon>04.9191333</lon>
+      <comment>Cornfield Tgt E, innert bomb</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-F</identifier>
+      <lat>53.2273583</lat>
+      <lon>4.9206778</lon>
+      <comment>Cornfield Tgt F, 150ft circle</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-Gp</identifier>
+      <lat>53.2218417</lat>
+      <lon>4.9015611</lon>
+      <comment>Cornfield first pile Tgt G, 70°</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-G</identifier>
+      <lat>53.2263444</lat>
+      <lon>4.9226889</lon>
+      <comment>Cornfield Tgt G, strike Tgt 1500ft circle with tank</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-H</identifier>
+      <lat>53.2239861</lat>
+      <lon>04.9280111</lon>
+      <comment>Cornfield Tgt H, live Bomb</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>VL-I</identifier>
+      <lat>53.2275889</lat>
+      <lon>4.9003444</lon>
+      <comment>Cornfield Tgt I, live bomb/cluster bomb</comment>
+    </waypoint>
+  </waypoint-table>
+<!--routes-->
+  <route>
+    <route-name>NAVPI AWR-Holbeach MC9</route-name>
+    <flight-plan-index>1</flight-plan-index>
+<!--EN-FIR TACAN route-->
+    <route-point>
+      <waypoint-identifier>NAVPI</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MC2</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MC3</waypoint-identifier>
+    </route-point>
+<!--VL-Tgt-->
+    <route-point>
+      <waypoint-identifier>DELTA</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>VL-Cp</waypoint-identifier>
+      <comment>Cornfield first pile Tgt C 316°</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>VL-C</waypoint-identifier>
+      <comment>Cornfield Tgt C, HE munition, 2 armoured Tanks</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>VL-Gp</waypoint-identifier>
+      <comment>Cornfield first pile Tgt G, 70°</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>VL-G</waypoint-identifier>
+      <comment>Cornfield Tgt G, strike Tgt 1500ft circle with tank</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>NOVEMBER</waypoint-identifier>
+    </route-point>
+<!--EN-FIR TACAN route out-->
+    <route-point>
+      <waypoint-identifier>MC9</waypoint-identifier>
+    </route-point>
+  </route>
+</flight-plan>

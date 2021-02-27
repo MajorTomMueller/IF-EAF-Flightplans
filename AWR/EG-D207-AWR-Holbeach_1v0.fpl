@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+<!--EGUL RAF Lakenheath-->
+    <waypoint>
+      <identifier>EGUL</identifier>
+      <lat>52.409403</lat>
+      <lon>0.561011</lon>
+      <elevation>9.7536</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>OTMUK</identifier>
+      <lat>52.3913</lat>
+      <lon>0.5178</lon>
+      <elevation>69.49</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ASROT</identifier>
+      <lat>52.6437</lat>
+      <lon>-0.0124</lon>
+      <elevation>1828.8</elevation>
+      <comment>Lakenheath Departure North</comment>
+    </waypoint>
+   <waypoint>
+      <identifier>D266J</identifier>
+      <lat>52.66390111</lat>
+      <lon>0.99584722</lon>
+      <elevation>1828.8</elevation>
+      <comment>Lakenheath arrival North East</comment>
+    </waypoint>
+<!--EGUL ILS RWY24-->
+    <waypoint>
+      <identifier>ASRAM</identifier>
+      <lat>52.5472056</lat>
+      <lon>0.9498972</lon>
+      <elevation>762</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>UNVUT</identifier>
+      <lat>52.4817</lat>
+      <lon>0.7846</lon>
+      <elevation>670.56</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ODEXA</identifier>
+      <lat>52.4707</lat>
+      <lon>0.7084</lon>
+      <elevation>548.64</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>LUGED</identifier>
+      <lat>52.4517</lat>
+      <lon>0.6625</lon>
+      <elevation>396.24</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>XERSA</identifier>
+      <lat>52.4216</lat>
+      <lon>0.5902</lon>
+      <elevation>69.49</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>RWY24</identifier>
+      <lat>52.414658519</lat>
+      <lon>0.573608790</lon>
+      <elevation>9.7536</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>RWY06</identifier>
+      <lat>52.404089889</lat>
+      <lon>0.548305082</lon>
+      <elevation>9.7536</elevation>
+    </waypoint>
+<!--EG-D207-->
+   <waypoint>
+      <identifier>5249N/0012E</identifier>
+      <lat>52.8166694641113</lat>
+      <lon>0.199999988079071</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5254N/0007E</identifier>
+      <lat>52.9000015258789</lat>
+      <lon>0.116666659712791</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5255N/0009E</identifier>
+      <lat>52.9166641235352</lat>
+      <lon>0.150000005960464</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5256N/0012E</identifier>
+      <lat>52.9333343505859</lat>
+      <lon>0.199999988079071</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5256N/0017E</identifier>
+      <lat>52.9333343505859</lat>
+      <lon>0.283333331346512</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5255N/0021E</identifier>
+      <lat>52.9166641235352</lat>
+      <lon>0.349999964237213</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5254N/0023E</identifier>
+      <lat>52.9000015258789</lat>
+      <lon>0.383333325386047</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5253N/0024E</identifier>
+      <lat>52.8833312988281</lat>
+      <lon>0.399999976158142</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5249N/0020E</identifier>
+      <lat>52.8166694641113</lat>
+      <lon>0.333333313465118</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5249N/0012E</identifier>
+      <lat>52.8166694641113</lat>
+      <lon>0.199999988079071</lon>
+    </waypoint>
+<!--AWR Holbeach Targets-->
+    <waypoint>
+      <identifier>HB-T1L</identifier>
+      <lat>52.8560444</lat>
+      <lon>0.1783861</lon>
+      <comment>Holbeach T1 white lead</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>HB-T1-1</identifier>
+      <lat>52.8610972</lat>
+      <lon>00.1749139</lon>
+      <comment>Holbeach T1-1 low strafe</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>HB-T1-2</identifier>
+      <lat>52.8612417</lat>
+      <lon>00.1755583</lon>
+      <comment>Holbeach T1-2 low strafe</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>HB-T1-3</identifier>
+      <lat>52.864103</lat>
+      <lon>0.183428</lon>
+      <comment>Holbeach T1-3 high strafe</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>HB-T2</identifier>
+      <lat>52.8613972</lat>
+      <lon>0.1761889</lon>
+      <comment>Holbeach T2 bombing circle</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>HB-red</identifier>
+      <lat>52.8621667</lat>
+      <lon>00.1761611</lon>
+      <comment>Holbeach T2 red lead</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>HB-T2</identifier>
+      <lat>52.8620056</lat>
+      <lon>0.1789583</lon>
+      <comment>Holbeach T2 blue lead</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>HB-T2</identifier>
+      <lat>52.8675472</lat>
+      <lon>00.1709889</lon>
+      <comment>Holbeach T2 bombing circle</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>T3</identifier>
+      <lat>52.8615417</lat>
+      <lon>0.1769306</lon>
+      <comment>Holbeach T3 Heli Strafe</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>HB-T4</identifier>
+      <lat>52.8669</lat>
+      <lon>0.16765</lon>
+      <comment>Holbeach T4 'the Tank'</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>HB-T5</identifier>
+      <lat>52.8644056</lat>
+      <lon>0.187825</lon>
+      <comment>Holbeach T5 heavy bombing</comment>
+    </waypoint>
+     <waypoint>
+      <identifier>HB-T6</identifier>
+      <lat>52.8670972</lat>
+      <lon>0.18855</lon>
+      <comment>Holbeach T6 'The Convoy'</comment>
+    </waypoint>
+     <waypoint>
+      <identifier>HB-T7</identifier>
+      <lat>52.864975</lat>
+      <lon>0.1900583</lon>
+      <comment>Holbeach T7 'The Barge'</comment>
+    </waypoint>
+     <waypoint>
+      <identifier>HB-T8</identifier>
+      <lat>52.88485</lat>
+      <lon>0.1507528</lon>
+      <comment>Holbeach T8 'Peters Folly'</comment>
+    </waypoint>
+     <waypoint>
+      <identifier>HB-T9</identifier>
+      <lat>52.8889361</lat>
+      <lon>0.1784917</lon>
+      <comment>Holbeach T9 'The Tanker'</comment>
+    </waypoint>
+  </waypoint-table>
+<!--routes-->
+  <route>
+    <route-name>AWR-Holbeach Targets</route-name>
+    <flight-plan-index>1</flight-plan-index>
+<!--EG-D207-->
+   <route-point>
+      <waypoint-identifier>5249N/0012E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5254N/0007E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5255N/0009E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5256N/0012E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5256N/0017E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5255N/0021E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5254N/0023E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5253N/0024E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5249N/0020E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5249N/0012E</waypoint-identifier>
+	  </route-point>
+<!--Holbeach Targets-->
+    <route-point>
+      <waypoint-identifier>HB-T1L</waypoint-identifier>
+      <comment>Holbeach T1 white lead</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>HB-T1-3</waypoint-identifier>
+      <comment>Holbeach T1-3 high strafe</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>HB-T2</waypoint-identifier>
+      <comment>Holbeach T2 bombing circle</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>HB-T8</waypoint-identifier>
+      <comment>Holbeach T8 'Peters Folly'</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>HB-T9</waypoint-identifier>
+      <comment>Holbeach T9 'The Tanker'</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>HB-T6</waypoint-identifier>
+      <comment>Holbeach T6 'The Convoy'</comment>
+    </route-point>
+  </route>
+</flight-plan>

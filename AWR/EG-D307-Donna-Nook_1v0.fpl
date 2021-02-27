@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+<!--EGUL RAF Lakenheath-->
+    <waypoint>
+      <identifier>EGUL</identifier>
+      <lat>52.409403</lat>
+      <lon>0.561011</lon>
+      <elevation>9.7536</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>OTMUK</identifier>
+      <lat>52.3913</lat>
+      <lon>0.5178</lon>
+      <elevation>69.49</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ASROT</identifier>
+      <lat>52.6437</lat>
+      <lon>-0.0124</lon>
+      <elevation>1828.8</elevation>
+      <comment>Lakenheath Departure North</comment>
+    </waypoint>
+   <waypoint>
+      <identifier>D266J</identifier>
+      <lat>52.66390111</lat>
+      <lon>0.99584722</lon>
+      <elevation>1828.8</elevation>
+      <comment>Lakenheath arrival North East</comment>
+    </waypoint>
+<!--EGUL ILS RWY24-->
+    <waypoint>
+      <identifier>ASRAM</identifier>
+      <lat>52.5472056</lat>
+      <lon>0.9498972</lon>
+      <elevation>762</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>UNVUT</identifier>
+      <lat>52.4817</lat>
+      <lon>0.7846</lon>
+      <elevation>670.56</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ODEXA</identifier>
+      <lat>52.4707</lat>
+      <lon>0.7084</lon>
+      <elevation>548.64</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>LUGED</identifier>
+      <lat>52.4517</lat>
+      <lon>0.6625</lon>
+      <elevation>396.24</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>XERSA</identifier>
+      <lat>52.4216</lat>
+      <lon>0.5902</lon>
+      <elevation>69.49</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>RWY24</identifier>
+      <lat>52.414658519</lat>
+      <lon>0.573608790</lon>
+      <elevation>9.7536</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>RWY06</identifier>
+      <lat>52.404089889</lat>
+      <lon>0.548305082</lon>
+      <elevation>9.7536</elevation>
+    </waypoint>
+<!--EG-D307-->
+<waypoint>
+      <identifier>5324N/0014E</identifier>
+      <lat>53.4000015258789</lat>
+      <lon>0.233333319425583</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5330N/0005E</identifier>
+      <lat>53.5</lat>
+      <lon>0.0833333283662796</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5331N/0006E</identifier>
+      <lat>53.5166702270508</lat>
+      <lon>0.0999999940395355</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5333N/0010E</identifier>
+      <lat>53.5500030517578</lat>
+      <lon>0.166666656732559</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5333N/0015E</identifier>
+      <lat>53.5500030517578</lat>
+      <lon>0.25</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5332N/0019E</identifier>
+      <lat>53.533332824707</lat>
+      <lon>0.316666662693024</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5330N/0021E</identifier>
+      <lat>53.5</lat>
+      <lon>0.349999964237213</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5328N/0021E</identifier>
+      <lat>53.4666633605957</lat>
+      <lon>0.349999964237213</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5326N/0020E</identifier>
+      <lat>53.4333305358887</lat>
+      <lon>0.333333313465118</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5325N/0018E</identifier>
+      <lat>53.4166679382324</lat>
+      <lon>0.300000011920929</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>5324N/0015E</identifier>
+      <lat>53.4000015258789</lat>
+      <lon>0.25</lon>
+	  </waypoint>
+	<!--AWR Donna-Nook Waypoints-->
+    <waypoint>
+      <identifier>OTBED</identifier>
+      <lat>53.288056</lat>
+      <lon>0.031944</lon>
+      <elevation>1828.8</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>NALAX</identifier>
+      <lat>53.483333</lat>
+      <lon>0.401667</lon>
+      <elevation>1828.8</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>DN-N</identifier>
+      <lat>53.55</lat>
+      <lon>0.26</lon>
+      <comment>Donna-Nook North Turn</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>DN-NW</identifier>
+      <lat>53.55</lat>
+      <lon>0.09</lon>
+      <comment>Donna-Nook North West Turn</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>LIBSO</identifier>
+      <lat>53.524722</lat>
+      <lon>0.093333</lon>
+    </waypoint>
+<!--AWR Donna-Nook Targets-->
+    <waypoint>
+      <identifier>DN-W</identifier>
+      <lat>53.491274</lat>
+      <lon>0.101048</lon>
+      <comment>Donna-Nook virtual lead 1+2</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>DN-T1p</identifier>
+      <lat>53.485</lat>
+      <lon>0.138056</lon>
+      <comment>Donna-Nook in T1</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>DN-T1</identifier>
+      <lat>53.4813194</lat>
+      <lon>0.16005</lon>
+      <comment>Donna-Nook T1</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>DN-T2p</identifier>
+      <lat>53.480556</lat>
+      <lon>0.145278</lon>
+      <comment>Donna-Nook in T2</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>DN-T2</identifier>
+      <lat>53.476075</lat>
+      <lon>0.1636028</lon>
+      <comment>Donna-Nook T2</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>DN-T4</identifier>
+      <lat>53.4745</lat>
+      <lon>0.1698333</lon>
+      <comment>Donna-Nook T4</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>DN-T5i</identifier>
+      <lat>53.5139778</lat>
+      <lon>0.2700028</lon>
+      <comment>Donna-Nook in T5</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>DN-T5</identifier>
+      <lat>53.4665444</lat>
+      <lon>0.1754028</lon>
+      <comment>Donna-Nook T5</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>SBY</identifier>
+      <lat>53.312394</lat>
+      <lon>0.174469</lon>
+      <elevation>1828.8</elevation>
+    </waypoint>
+  </waypoint-table>
+<!--routes-->
+  <route>
+    <route-name>EG-D307 AWR-Donna-Nook</route-name>
+    <flight-plan-index>1</flight-plan-index>
+    <route-point>
+      <waypoint-identifier>SBY</waypoint-identifier>
+	  </route-point>
+<!--EG-D307-->
+    <route-point>
+      <waypoint-identifier>5324N/0015E</waypoint-identifier>
+	  </route-point>
+    <route-point>
+      <waypoint-identifier>5325N/0018E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5326N/0020E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5328N/0021E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5330N/0021E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5332N/0019E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5333N/0015E</waypoint-identifier>
+	  </route-point>
+    <route-point>
+      <waypoint-identifier>5333N/0010E</waypoint-identifier>
+	  </route-point>
+	  <route-point>
+      <waypoint-identifier>5331N/0006E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5330N/0005E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>5324N/0014E</waypoint-identifier>
+    </route-point>	
+	<!--Donna Nook-->
+    <route-point>
+      <waypoint-identifier>DN-N</waypoint-identifier>
+      <comment>Donna-Nook North Turn</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LIBSO</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>DN-W</waypoint-identifier>
+      <comment>Donna-Nook virtual lead 1+2</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>DN-T1p</waypoint-identifier>
+      <comment>Donna-Nook in T1</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>DN-T1</waypoint-identifier>
+      <comment>Donna-Nook T1</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>DN-N</waypoint-identifier>
+      <comment>Donna-Nook North Turn</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LIBSO</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>DN-W</waypoint-identifier>
+      <comment>Donna-Nook virtual lead 1+2</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>DN-T2p</waypoint-identifier>
+      <comment>Donna-Nook in T2</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>DN-T2</waypoint-identifier>
+      <comment>Donna-Nook T2</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>DN-N</waypoint-identifier>
+      <comment>Donna-Nook North Turn</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>DN-T5i</waypoint-identifier>
+      <comment>Donna-Nook in T5</comment>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>DN-T5</waypoint-identifier>
+      <comment>Donna-Nook T5</comment>
+    </route-point>
+  </route>
+</flight-plan>
