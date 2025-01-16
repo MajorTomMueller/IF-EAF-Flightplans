@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+
+  <waypoint>
+      <identifier>EVAKI</identifier>
+      <type>INT</type>
+      <lat>56.23944444</lat>
+      <lon>7.48111111</lon>
+      <elevation>5638.8</elevation>
+    </waypoint>  
+
+	<waypoint>
+      <identifier>Turn West</identifier>
+      <lat>56.17</lat>
+      <lon>5.85</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Anchor Point</identifier>
+      <lat>56.25</lat>
+      <lon>6.0</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Additional Point</identifier>
+      <lat>56.25</lat>
+      <lon>007.5</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn East</identifier>
+      <lat>56.17</lat>
+      <lon>7.65</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>South East Point</identifier>
+      <lat>56.09</lat>
+      <lon>007.5</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>South West Point</identifier>
+      <lat>56.09</lat>
+      <lon>6.0</lon>
+    </waypoint>
+	</waypoint-table>
+  <route>
+    <route-name>Jenna 2 round, FL180-FL280</route-name>
+
+    <route-point>
+      <waypoint-identifier>EVAKI</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>Additional Point</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Anchor Point</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn West</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>South West Point</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>South East Point</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn East</waypoint-identifier>
+    </route-point>
+	
+    <route-point>
+      <waypoint-identifier>Additional Point</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Anchor Point</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn West</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>South West Point</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>South East Point</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn East</waypoint-identifier>
+    </route-point>
+	
+	</route>
+</flight-plan>
