@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>BAXUN</identifier>
+      <lat>51.32640028</lat>
+      <lon>-2.43973833</lon>
+      <elevation>7924.8</elevation> 
+	  </waypoint>
+    <waypoint>
+      <identifier>10E-IP</identifier>
+      <lat>51.1500015258789</lat>
+      <lon>-2.56666660308838</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>10E-CP</identifier>
+      <lat>50.8666687011719</lat>
+      <lon>-3.61666631698608</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>10E-turn-E</identifier>
+      <lat>50.7333297729492</lat>
+      <lon>-3.71666669845581</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>10E-backtrack-IP</identifier>
+      <lat>50.6999969482422</lat>
+      <lon>-3.43333339691162</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>10E-backtrack-CP</identifier>
+      <lat>51</lat>
+      <lon>-2.36666679382324</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>10E-turn-W</identifier>
+      <lat>51.1166648864746</lat>
+      <lon>-2.30000019073486</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name>AARA 10 East, Cornwall, entry BAXUN</route-name>
+    <route-point>
+      <waypoint-identifier>BAXUN</waypoint-identifier>
+      <waypoint-type>INT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-turn-E</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-backtrack-IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-backtrack-CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-turn-W</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-turn-E</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-backtrack-IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-backtrack-CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>10E-turn-W</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+	</route>
+</flight-plan>
