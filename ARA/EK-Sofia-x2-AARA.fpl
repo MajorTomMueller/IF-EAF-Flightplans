@@ -2,49 +2,49 @@
 <flight-plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
   <waypoint-table>
 
-  <waypoint>
-      <identifier>ANGEL</identifier>
-      <lat>56.35</lat>
-      <lon>7.6</lon>
-      <elevation>5486.4</elevation>
+    <waypoint>
+      <identifier>SOFIA</identifier>
+      <lat>56.923</lat>
+      <lon>5.83</lon>
+      <elevation>5486.4</elevation> <!--FL180-->
     </waypoint>
 
     <waypoint>
-      <identifier>Anchor Point</identifier>
-      <lat>56.25</lat>
-      <lon>6.0</lon>
-    </waypoint>
-    <waypoint>
       <identifier>Additional Point</identifier>
-      <lat>56.25</lat>
-      <lon>7.5</lon>
+      <lat>56.8333333</lat>
+      <lon>5.9166667</lon>
     </waypoint>
-	<waypoint>
-      <identifier>Turn West</identifier>
+    <waypoint>
+      <identifier>Anchor Point</identifier>
+      <lat>56.2</lat>
+      <lon>5.9166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn S</identifier>
       <lat>56.17</lat>
-      <lon>5.9</lon>
+      <lon>6.02</lon>
     </waypoint>
     <waypoint>
-      <identifier>SW Point</identifier>
-      <lat>56.09</lat>
-      <lon>6.0</lon>
+      <identifier>SE</identifier>
+      <lat>56.2</lat>
+      <lon>6.12</lon>
     </waypoint>
     <waypoint>
-      <identifier>SE Point</identifier>
-      <lat>56.09</lat>
-      <lon>7.5</lon>
+      <identifier>NE</identifier>
+      <lat>56.8333333</lat>
+      <lon>6.12</lon>
     </waypoint>
     <waypoint>
-      <identifier>Turn East</identifier>
-      <lat>56.17</lat>
-      <lon>7.6</lon>
+      <identifier>Turn N</identifier>
+      <lat>56.87</lat>
+      <lon>6.02</lon>
     </waypoint>
 	</waypoint-table>
   <route>
-    <route-name>Angel 2 round, FL180-FL280</route-name>
+    <route-name>Sofia 2 round, FL180-FL280</route-name>
 
     <route-point>
-      <waypoint-identifier>ANGEL</waypoint-identifier>
+      <waypoint-identifier>SOFIA</waypoint-identifier>
     </route-point>
 
     <route-point>
@@ -54,16 +54,16 @@
       <waypoint-identifier>Anchor Point</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>Turn West</waypoint-identifier>
+      <waypoint-identifier>Turn S</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>SW Point</waypoint-identifier>
+      <waypoint-identifier>SE</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>SE Point</waypoint-identifier>
+      <waypoint-identifier>NE</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>Turn East</waypoint-identifier>
+      <waypoint-identifier>Turn N</waypoint-identifier>
     </route-point>
 	
     <route-point>
@@ -73,16 +73,16 @@
       <waypoint-identifier>Anchor Point</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>Turn West</waypoint-identifier>
+      <waypoint-identifier>Turn S</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>SW Point</waypoint-identifier>
+      <waypoint-identifier>SE</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>SE Point</waypoint-identifier>
+      <waypoint-identifier>NE</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>Turn East</waypoint-identifier>
+      <waypoint-identifier>Turn N</waypoint-identifier>
     </route-point>
 	
 	</route>

@@ -3,48 +3,48 @@
   <waypoint-table>
 
     <waypoint>
-      <identifier>SARAH</identifier>
-      <lat>55.38</lat>
-      <lon>9.85</lon>
-      <elevation>4572</elevation> <!--15000ft-->
+      <identifier>KYLIE</identifier>
+      <lat>57.433</lat>
+      <lon>8.50</lon>
+      <elevation>5486.4</elevation> <!--FL180-->
     </waypoint>
 
     <waypoint>
       <identifier>Anchor Point</identifier>
-      <lat>55.3333333</lat>
-      <lon>8.75</lon>
+      <lat>56.8333333</lat>
+      <lon>7.50</lon>
     </waypoint>
     <waypoint>
       <identifier>Additional Point</identifier>
-      <lat>55.3333333</lat>
-      <lon>9.75</lon>
+      <lat>57.3333333</lat>
+      <lon>8.50</lon>
     </waypoint>
-	<waypoint>
-      <identifier>Turn West</identifier>
-      <lat>55.25</lat>
+    <waypoint>
+      <identifier>Turn SW</identifier>
+      <lat>56.75</lat>
+      <lon>7.48</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>South Point</identifier>
+      <lat>56.75</lat>
+      <lon>7.63</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>East Point</identifier>
+      <lat>57.24</lat>
+      <lon>8.63</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn NE</identifier>
+      <lat>57.33</lat>
       <lon>8.65</lon>
-    </waypoint>
-    <waypoint>
-      <identifier>SW Point</identifier>
-      <lat>55.16</lat>
-      <lon>8.75</lon>
-    </waypoint>
-    <waypoint>
-      <identifier>SE Point</identifier>
-      <lat>55.16</lat>
-      <lon>9.75</lon>
-    </waypoint>
-    <waypoint>
-      <identifier>Turn East</identifier>
-      <lat>55.25</lat>
-      <lon>9.85</lon>
     </waypoint>
 	</waypoint-table>
   <route>
-    <route-name>Sarah 2 round, FL150-FL240</route-name>
+    <route-name>Kylie 2 round, FL180-FL280</route-name>
 
     <route-point>
-      <waypoint-identifier>SARAH</waypoint-identifier>
+      <waypoint-identifier>KYLIE</waypoint-identifier>
     </route-point>
 
     <route-point>
@@ -54,16 +54,16 @@
       <waypoint-identifier>Anchor Point</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>Turn West</waypoint-identifier>
+      <waypoint-identifier>Turn SW</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>SW Point</waypoint-identifier>
+      <waypoint-identifier>South Point</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>SE Point</waypoint-identifier>
+      <waypoint-identifier>East Point</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>Turn East</waypoint-identifier>
+      <waypoint-identifier>Turn NE</waypoint-identifier>
     </route-point>
 	
     <route-point>
@@ -73,16 +73,16 @@
       <waypoint-identifier>Anchor Point</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>Turn West</waypoint-identifier>
+      <waypoint-identifier>Turn SW</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>SW Point</waypoint-identifier>
+      <waypoint-identifier>South Point</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>SE Point</waypoint-identifier>
+      <waypoint-identifier>East Point</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>Turn East</waypoint-identifier>
+      <waypoint-identifier>Turn NE</waypoint-identifier>
     </route-point>
 	
 	</route>

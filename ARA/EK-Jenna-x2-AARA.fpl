@@ -3,18 +3,12 @@
   <waypoint-table>
 
   <waypoint>
-      <identifier>DOREV</identifier>
-      <type>INT</type>
-      <lat>55.53333333</lat>
-      <lon>7.58333333</lon>
-      <elevation>5638.8</elevation>
-    </waypoint>  
-
-	<waypoint>
-      <identifier>Turn West</identifier>
-      <lat>55.45</lat>
-      <lon>6.18</lon>
+      <identifier>JENNA</identifier>
+      <lat>55.633</lat>
+      <lon>007.5166667</lon>
+      <elevation>5486.4</elevation>
     </waypoint>
+
     <waypoint>
       <identifier>Anchor Point</identifier>
       <lat>55.5333333</lat>
@@ -25,27 +19,32 @@
       <lat>55.5333333</lat>
       <lon>007.4166667</lon>
     </waypoint>
-    <waypoint>
-      <identifier>Turn East</identifier>
+	<waypoint>
+      <identifier>Turn West</identifier>
       <lat>55.45</lat>
-      <lon>7.56</lon>
+      <lon>6.23</lon>
     </waypoint>
     <waypoint>
-      <identifier>South East Point</identifier>
-      <lat>55.37</lat>
+      <identifier>SW Point</identifier>
+      <lat>55.36</lat>
+      <lon>6.3333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>SE Point</identifier>
+      <lat>55.36</lat>
       <lon>007.4166667</lon>
     </waypoint>
     <waypoint>
-      <identifier>South West Point</identifier>
-      <lat>55.37</lat>
-      <lon>6.3333333</lon>
+      <identifier>Turn East</identifier>
+      <lat>55.45</lat>
+      <lon>7.51</lon>
     </waypoint>
 	</waypoint-table>
   <route>
     <route-name>Jenna 2 round, FL180-FL280</route-name>
 
     <route-point>
-      <waypoint-identifier>DOREV</waypoint-identifier>
+      <waypoint-identifier>JENNA</waypoint-identifier>
     </route-point>
 
     <route-point>
@@ -58,10 +57,10 @@
       <waypoint-identifier>Turn West</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>South West Point</waypoint-identifier>
+      <waypoint-identifier>SW Point</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>South East Point</waypoint-identifier>
+      <waypoint-identifier>SE Point</waypoint-identifier>
     </route-point>
     <route-point>
       <waypoint-identifier>Turn East</waypoint-identifier>
@@ -77,10 +76,10 @@
       <waypoint-identifier>Turn West</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>South West Point</waypoint-identifier>
+      <waypoint-identifier>SW Point</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>South East Point</waypoint-identifier>
+      <waypoint-identifier>SE Point</waypoint-identifier>
     </route-point>
     <route-point>
       <waypoint-identifier>Turn East</waypoint-identifier>
