@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+    <waypoint>
+      <identifier>Trondelag</identifier>
+      <lat>65.09</lat>
+      <lon>9.93</lon>
+      <elevation>7620</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>AP</identifier>
+      <lat>65.23</lat>
+      <lon>10.65</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn East</identifier>
+      <lat>65.3</lat>
+      <lon>11.1</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>N-CP</identifier>
+      <lat>65.53</lat>
+      <lon>10.95</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>N-AP</identifier>
+      <lat>66.15692171837314</lat>
+      <lon>8.216219955856156</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn West</identifier>
+      <lat>66.09628818670656</lat>
+      <lon>7.738414345423116</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>CP</identifier>
+      <lat>65.84717295789331</lat>
+      <lon>7.899708441934063</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-point>
+      <waypoint-identifier>Trondelag</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>AP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn East</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>N-CP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>N-AP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn West</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>AP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn East</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>N-CP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>N-AP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn West</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+    </route-point>
+  </route>
+</flight-plan>
