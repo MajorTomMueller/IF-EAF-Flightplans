@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+<!--c by Major Tom-->
+  <waypoint-table>
+    <waypoint>
+      <identifier>SPIKE</identifier>
+      <type>INT</type>
+      <lat>57.54055556</lat>
+      <lon>-1.66472222</lon>
+      <elevation>9448.8</elevation>
+  </waypoint>
+  <waypoint>
+      <identifier>IP</identifier>
+      <lat>57.7166667</lat>
+      <lon>-1.2</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>CP</identifier>
+      <lat>57.9666667</lat>
+      <lon>-000.0666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TP-E</identifier>
+      <lat>58.1000022888184</lat>
+      <lon>0.0333333313465118</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>IP-N</identifier>
+      <lat>58.1333351135254</lat>
+      <lon>-0.216666653752327</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>CP-N</identifier>
+      <lat>57.8833312988281</lat>
+      <lon>-1.33333337306976</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TP-W</identifier>
+      <lat>57.7666664123535</lat>
+      <lon>-1.41666662693024</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name> AARA 04</route-name>
+	
+    <route-point>
+      <waypoint-identifier>SPIKE</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>IP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-W</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>IP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-W</waypoint-identifier>
+    </route-point>
+
+	</route>
+</flight-plan>
