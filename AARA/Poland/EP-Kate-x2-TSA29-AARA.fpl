@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+    <waypoint>
+      <identifier>TSN</identifier>
+      <lat>53.7827778</lat>
+      <lon>015.8519444</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>KATE</identifier>
+      <lat>53.7</lat>
+      <lon>16.85</lon>
+      <elevation>6705</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>RP</identifier>
+      <lat>53.5810278</lat>
+      <lon>016.7263056</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TP1</identifier>
+      <lat>53.4683889</lat>
+      <lon>016.2609722</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn West</identifier>
+      <lat>53.35</lat>
+      <lon>16.16</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP2</identifier>
+      <lat>53.3159444</lat>
+      <lon>016.3705278</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TP2</identifier>
+      <lat>53.5605278</lat>
+      <lon>017.4055278</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn East</identifier>
+      <lat>53.66</lat>
+      <lon>17.5</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP1</identifier>
+      <lat>53.7151944</lat>
+      <lon>017.3021667</lon>
+    </waypoint>
+  </waypoint-table>
+
+  <route>
+    <route-name>DORA 2 Round</route-name>
+
+	<!--
+    <route-point>
+      <waypoint-identifier>TSN</waypoint-identifier>
+    </route-point>
+	-->
+    <route-point>
+      <waypoint-identifier>KATE</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>RP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP1</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn West</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>AP2</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP2</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn East</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>AP1</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>RP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP1</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn West</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>AP2</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP2</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Turn East</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>AP1</waypoint-identifier>
+    </route-point>
+
+  </route>
+</flight-plan>
