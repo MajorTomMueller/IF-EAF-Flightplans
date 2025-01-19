@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>DIDEL</identifier>
+      <type>INT</type>
+      <lat>50.84305556</lat>
+      <lon>-3.99722222</lon>
+      <elevation>7924.8</elevation> 
+	  </waypoint>
+    <waypoint>
+      <identifier>IP</identifier>
+      <lat>50.6333333</lat>
+      <lon>-004.4166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>CP</identifier>
+      <lat>49.95</lat>
+      <lon>-006.6666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>turn-E</identifier>
+      <lat>50.5833320617676</lat>
+      <lon>-4.16666650772095</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>oposit-IP</identifier>
+      <lat>49.75</lat>
+      <lon>-6.51666641235352</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>oposit-CP</identifier>
+      <lat>50.4666633605957</lat>
+      <lon>-4.23333311080933</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>turn-W</identifier>
+      <lat>49.7999992370606</lat>
+      <lon>-6.74999952316284</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name>AARA 10 East, Cornwall, entry BAXUN</route-name>
+    <route-point>
+      <waypoint-identifier>DIDEL</waypoint-identifier>
+      <waypoint-type>INT</waypoint-type>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>turn-W</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>oposit-IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>oposit-CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>turn-E</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>turn-W</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>oposit-IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>oposit-CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>turn-E</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+	</route>
+</flight-plan>

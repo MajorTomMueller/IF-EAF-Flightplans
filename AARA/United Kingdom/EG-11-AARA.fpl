@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>GITUS</identifier>
+      <type>INT</type>
+      <lat>50.33333333</lat>
+      <lon>-5.7</lon>
+      <elevation>7924.8</elevation> 
+	  </waypoint>
+    <waypoint>
+      <identifier>IP</identifier>
+      <lat>50.2833333</lat>
+      <lon>-005.9166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>CP</identifier>
+      <lat>50.0166667</lat>
+      <lon>-007.6</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>turn-E</identifier>
+      <lat>50.1999969482422</lat>
+      <lon>-5.71666622161865</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>oposit-IP</identifier>
+      <lat>49.7833366394043</lat>
+      <lon>-7.50000047683716</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>oposit-CP</identifier>
+      <lat>50.0666694641113</lat>
+      <lon>-5.83333349227905</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>turn-W</identifier>
+      <lat>49.8666687011719</lat>
+      <lon>-7.73333358764648</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name>AARA 11</route-name>
+    <route-point>
+      <waypoint-identifier>GITUS</waypoint-identifier>
+      <waypoint-type>INT</waypoint-type>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>turn-W</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>oposit-IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>oposit-CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>turn-E</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>turn-W</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>oposit-IP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>oposit-CP</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>turn-E</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+	</route>
+</flight-plan>

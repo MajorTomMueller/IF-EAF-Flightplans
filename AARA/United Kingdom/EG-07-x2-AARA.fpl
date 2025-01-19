@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+<!--c by Major Tom-->
+  <waypoint-table>
+    <waypoint>
+      <identifier>GIVEM</identifier>
+      <type>INT</type>
+      <lat>55.465</lat>
+      <lon>0.24805556</lon>
+      <elevation>9448.8</elevation>
+  </waypoint>
+  <waypoint>
+      <identifier>IP</identifier>
+      <lat>55.1333333</lat>
+      <lon>001.3166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>CP</identifier>
+      <lat>54.8166667</lat>
+      <lon>002.5166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TP-E</identifier>
+      <lat>54.8833312988281</lat>
+      <lon>2.76666665077209</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>IP-N</identifier>
+      <lat>55.0166625976562</lat>
+      <lon>2.68333339691162</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>CP-N</identifier>
+      <lat>55.34</lat>
+      <lon>1.45</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TP-W</identifier>
+      <lat>55.25</lat>
+      <lon>1.25</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name> AARA 05</route-name>
+	
+    <route-point>
+      <waypoint-identifier>GIVEM</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>IP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-W</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>IP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-E</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-W</waypoint-identifier>
+    </route-point>
+
+	</route>
+</flight-plan>
