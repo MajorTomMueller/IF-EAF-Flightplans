@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>IP</identifier>
+      <lat>35.4833335876465</lat>
+      <lon>31.9833335876465</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>CP</identifier>
+      <lat>35.4833335876465</lat>
+      <lon>30.9833335876465</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TP-W</identifier>
+      <lat>35.5666656494141</lat>
+      <lon>30.8500003814697</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>IP-N</identifier>
+      <lat>35.6499977111816</lat>
+      <lon>30.9833335876465</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>CP-N</identifier>
+      <lat>35.6499977111816</lat>
+      <lon>31.9833335876465</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TP-E</identifier>
+      <lat>35.5666656494141</lat>
+      <lon>32.1166648864746</lon>
+    </waypoint>
+
+    <waypoint>
+      <identifier>VADUS</identifier>
+      <lat>35.30527778</lat>
+      <lon>32.05805556</lon>
+      <elevation>9448.8</elevation>
+    </waypoint>
+
+	</waypoint-table>
+  <route>
+    <route-name>crete north</route-name>
+
+    <route-point>
+      <waypoint-identifier>VADUS</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>IP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-W</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-E</waypoint-identifier>
+    </route-point>
+
+    <route-point>
+      <waypoint-identifier>IP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-W</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP-N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP-E</waypoint-identifier>
+    </route-point>
+
+	</route>
+</flight-plan>
