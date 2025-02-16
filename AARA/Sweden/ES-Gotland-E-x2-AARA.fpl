@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?><flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+<!--c by Major Tom-->
+
+  <waypoint-table>
+    <waypoint>
+      <identifier>GIGOD</identifier>
+      <type>INT</type>
+      <lat>57.03222222</lat>
+      <lon>19.71694444</lon>
+    </waypoint>
+
+<!--track-->
+    <waypoint>
+      <identifier>IP1</identifier>
+      <lat>57.8</lat>
+      <lon>19.8</lon>
+      <elevation>6096</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>CP1</identifier>
+      <lat>58.3</lat>
+      <lon>20.02</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>IP2</identifier>
+      <lat>58.3</lat>
+      <lon>19.5</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TP1</identifier>
+      <lat>58.44</lat>
+      <lon>19.8</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TP2</identifier>
+      <lat>57.68</lat>
+      <lon>19.52</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>CP2</identifier>
+      <lat>57.81</lat>
+      <lon>19.3</lon>
+    </waypoint>
+  </waypoint-table>
+
+  <route>
+    <route-point>
+      <waypoint-identifier>GIGOD</waypoint-identifier>
+    </route-point>
+<!--round 1-->
+    <route-point>
+      <waypoint-identifier>IP1</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP1</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP1</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IP2</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP2</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP2</waypoint-identifier>
+    </route-point>
+
+<!--round 1-->
+    <route-point>
+      <waypoint-identifier>IP1</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP1</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP1</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IP2</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>CP2</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TP2</waypoint-identifier>
+    </route-point>
+
+  </route>
+</flight-plan>
