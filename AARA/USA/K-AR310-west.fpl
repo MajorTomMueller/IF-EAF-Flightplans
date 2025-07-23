@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+    <waypoint>
+      <identifier>NLC</identifier>
+      <type>VOR</type>
+      <lat>36.3439119444444</lat>
+      <lon>-119.966133611111</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>ARIP</identifier>
+      <lat>34.6166667</lat>
+      <lon>-105.3</lon>
+      <elevation>5501.64</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ARCP</identifier>
+      <lat>34.6166667</lat>
+      <lon>-107.2333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NCP</identifier>
+      <lat>34.6166667</lat>
+      <lon>-108.2</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Exit</identifier>
+      <lat>34.6166667</lat>
+      <lon>-109.15</lon>
+    </waypoint>
+	</waypoint-table>
+  <route>
+    <route-name>AR310 Track West</route-name>
+    <flight-plan-index>1</flight-plan-index>
+	
+	<route-point>
+      <waypoint-identifier>ARIP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>ARCP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Exit</waypoint-identifier>
+    </route-point>
+	
+	</route>
+</flight-plan>
