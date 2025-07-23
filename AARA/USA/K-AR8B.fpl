@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>ARIP</identifier>
+      <lat>39.7</lat>
+      <lon>-123.3833333</lon>
+      <elevation>73152</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ARCP</identifier>
+      <lat>41.3333333</lat>
+      <lon>-123.8</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NCP</identifier>
+      <lat>42.4333333</lat>
+      <lon>-123.8</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Exit</identifier>
+      <lat>44.1166667</lat>
+      <lon>-123.8</lon>
+    </waypoint>
+	</waypoint-table>
+  <route>
+    <route-name>AR7B Track North</route-name>
+    <flight-plan-index>1</flight-plan-index>
+	
+	<route-point>
+      <waypoint-identifier>ARIP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>ARCP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Exit</waypoint-identifier>
+    </route-point>
+	
+	</route>
+</flight-plan>
