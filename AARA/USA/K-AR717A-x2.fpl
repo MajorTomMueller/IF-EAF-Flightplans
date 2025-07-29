@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>Entry</identifier>
+      <lat>48.5</lat>
+      <lon>-119.3833333</lon>
+      <elevation>8549.65</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ARIP</identifier>
+      <lat>48.5</lat>
+      <lon>-120.2333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP</identifier>
+      <lat>48.5</lat>
+      <lon>-117.55</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn-E</identifier>
+      <lat>48.65</lat>
+      <lon>-117.2</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NCP-1</identifier>
+      <lat>48.8333333</lat>
+      <lon>-117.525</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NCP-2</identifier>
+      <lat>48.8333333</lat>
+      <lon>-119.2666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn-W</identifier>
+      <lat>48.65</lat>
+      <lon>-119.57</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NCP-3</identifier>
+      <lat>48.5</lat>
+      <lon>-119.275</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Exit</identifier>
+      <lat>48.45</lat>
+      <lon>-116.5333333</lon>
+    </waypoint>
+	</waypoint-table>
+  <route>
+    <route-name>AR717A Track 2 Round</route-name>
+    <flight-plan-index>1</flight-plan-index>
+	
+	<route-point>
+      <waypoint-identifier>ARIP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Entry</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP-3</waypoint-identifier>
+    </route-point>
+	
+<!--AR660-->
+	<route-point>
+      <waypoint-identifier>AP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-E</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP-2</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-W</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP-3</waypoint-identifier>
+    </route-point>
+	
+<!--AR660-->
+	<route-point>
+      <waypoint-identifier>AP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-E</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP-2</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-W</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP-3</waypoint-identifier>
+    </route-point>
+	
+	<route-point>
+      <waypoint-identifier>AP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Exit</waypoint-identifier>
+    </route-point>
+
+	</route>
+</flight-plan>
