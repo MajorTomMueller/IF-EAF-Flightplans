@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>Entry</identifier>
+      <lat>55.2916667</lat>
+      <lon>-160.8783333</lon>
+      <elevation>8549.65</elevation>
+	  <!--LIYYA-->
+    </waypoint>
+    <waypoint>
+      <identifier>ARIP</identifier>
+      <lat>55.3166667</lat>
+      <lon>-160.8333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP</identifier>
+      <lat>56.1833333</lat>
+      <lon>-159.2833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-1</identifier>
+      <lat>56.1833333</lat>
+      <lon>-159.2833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn-E</identifier>
+      <lat>56.40</lat>
+      <lon>-159.28</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-2</identifier>
+      <lat>56.45</lat>
+      <lon>-159.7166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-3</identifier>
+      <lat>55.85</lat>
+      <lon>-160.8166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn-W</identifier>
+      <lat>55.6</lat>
+      <lon>-160.81</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-4</identifier>
+      <lat>55.5833333</lat>
+      <lon>-160.3833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Exit</identifier>
+      <lat>56.7435</lat>
+      <lon>-159.1553333</lon>
+	  <!--KAYEF-->
+	</waypoint>
+	</waypoint-table>
+  <route> <!--Sandpoint-->
+  <route-name>AR722NE Track 2 Round</route-name>
+    <flight-plan-index>1</flight-plan-index>
+	
+	<route-point>
+      <waypoint-identifier>Entry</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>ARIP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-4</waypoint-identifier>
+    </route-point>
+	
+<!--AR722NR-->
+	<route-point>
+      <waypoint-identifier>AP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-E</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-2</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-3</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-W</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-4</waypoint-identifier>
+    </route-point>
+	
+<!--AR722NE-->
+	<route-point>
+      <waypoint-identifier>AP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-E</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-2</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-3</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-W</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-4</waypoint-identifier>
+    </route-point>
+	
+	
+<!--3/4 Track to exit-->
+    <route-point>
+      <waypoint-identifier>AP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-E</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Exit</waypoint-identifier>
+    </route-point>
+
+	</route>
+</flight-plan>
