@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>Entry</identifier>
+      <lat>61.5906667</lat>
+      <lon>-152.6336667</lon>
+      <elevation>8549.65</elevation>
+	  <!--  -->
+    </waypoint>
+    <waypoint>
+      <identifier>Entry-2</identifier>
+      <lat>61.3835</lat>
+      <lon>-156.244</lon>
+      <elevation>8549.65</elevation>
+	  <!--  -->
+    </waypoint>
+    <waypoint>
+      <identifier>Entry-3</identifier>
+      <lat>62.2978333</lat>
+      <lon>-154.8983333</lon>
+      <elevation>8549.65</elevation>
+	  <!--  -->
+	</waypoint>
+    <waypoint>
+      <identifier>ARIP</identifier>
+      <lat>61.7666667</lat>
+      <lon>-154</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP</identifier>
+      <lat>62.1</lat>
+      <lon>-156.4666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-1</identifier>
+      <lat>62.1</lat>
+      <lon>-156.4666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn-W</identifier>
+      <lat>61.95</lat>
+      <lon>-157</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-2</identifier>
+      <lat>61.75</lat>
+      <lon>-156.65</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-3</identifier>
+      <lat>61.5166667</lat>
+      <lon>-154.9166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn-E</identifier>
+      <lat>61.61</lat>
+      <lon>-154.3</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-4</identifier>
+      <lat>61.85</lat>
+      <lon>-154.7166667</lon>
+    </waypoint>
+  <waypoint>
+      <identifier>Exit-1</identifier>
+      <lat>61.5906667</lat>
+      <lon>-152.6336667</lon>
+	  <!--  -->
+    </waypoint>
+    <waypoint>
+      <identifier>Exit-2</identifier>
+      <lat>61.3835</lat>
+      <lon>-156.244</lon>
+	  <!--  -->
+    </waypoint>
+    <waypoint>
+      <identifier>Exit</identifier>
+      <lat>62.2978333</lat>
+      <lon>-154.8983333</lon>
+	  <!--  -->
+	</waypoint>
+	</waypoint-table>
+  <route> <!-- Stony -->
+    <route-name>AR723 Track 2 Round</route-name>
+    <flight-plan-index>1</flight-plan-index>
+	
+	<route-point>
+      <waypoint-identifier>Entry</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>ARIP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-4</waypoint-identifier>
+    </route-point>
+	
+<!--AR723-->
+	<route-point>
+      <waypoint-identifier>AP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-W</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-2</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-3</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-E</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-4</waypoint-identifier>
+    </route-point>
+	
+<!--AR723-->
+	<route-point>
+      <waypoint-identifier>AP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-W</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-2</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-3</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-E</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-4</waypoint-identifier>
+    </route-point>
+	
+	
+<!--3/4 Track to exit-->
+    <route-point>
+      <waypoint-identifier>Exit</waypoint-identifier>
+    </route-point>
+
+	</route>
+</flight-plan>
