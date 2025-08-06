@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>Exit</identifier>
+      <lat>55.4166667</lat>
+      <lon>-134.6666667</lon>
+      <elevation>7315.2</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>NCP</identifier>
+      <lat>56.4833333</lat>
+      <lon>-136.9583333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>ARCP</identifier>
+      <lat>57.2745</lat>
+      <lon>-138.8166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>ARIP</identifier>
+      <lat>58.2666667</lat>
+      <lon>-141.3333333</lon>
+    </waypoint>
+	</waypoint-table>
+  <route>
+    <route-name>AR507 Track East</route-name>
+    <flight-plan-index>1</flight-plan-index>
+	
+	<route-point>
+      <waypoint-identifier>ARIP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>ARCP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Exit</waypoint-identifier>
+    </route-point>
+	
+	</route>
+</flight-plan>

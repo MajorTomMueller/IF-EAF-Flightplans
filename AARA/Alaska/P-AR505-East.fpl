@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>ARIP</identifier>
+      <lat>61.9013333</lat>
+      <lon>-160.022</lon>
+      <elevation>7315.4</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ARCP</identifier>
+      <lat>63</lat>
+      <lon>-157.3666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NCP-1</identifier>
+      <lat>63.5166667</lat>
+      <lon>-156.0833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NCP-2</identifier>
+      <lat>65.3833333</lat>
+      <lon>-150.3833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Exit</identifier>
+      <lat>66.3166667</lat>
+      <lon>-147</lon>
+    </waypoint>
+	</waypoint-table>
+  <route>
+    <route-name>AR505 Track East</route-name>
+    <flight-plan-index>1</flight-plan-index>
+	
+	<route-point>
+      <waypoint-identifier>ARIP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>ARCP</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>NCP-2</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Exit</waypoint-identifier>
+    </route-point>
+	
+	</route>
+</flight-plan>
