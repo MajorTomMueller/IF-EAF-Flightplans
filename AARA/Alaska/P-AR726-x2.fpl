@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+  <waypoint>
+      <identifier>Entry-1</identifier>
+      <lat>63.6183333</lat>
+      <lon>-145.325</lon>
+      <elevation>8549.65</elevation>
+	  <!--SKKOT-->
+    </waypoint>
+    <waypoint>
+      <identifier>Entry</identifier>
+      <lat>62.487</lat>
+      <lon>-145.1748333</lon>
+      <elevation>8549.65</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ARIP</identifier>
+      <lat>62.629</lat>
+      <lon>-145.1908333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP</identifier>
+      <lat>63.2456667</lat>
+      <lon>-144.788</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-1</identifier>
+      <lat>63.2456667</lat>
+      <lon>-144.788</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn-N</identifier>
+      <lat>63.5</lat>
+      <lon>-145</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-2</identifier>
+      <lat>63.35</lat>
+      <lon>-145.454</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-3</identifier>
+      <lat>62.7091667</lat>
+      <lon>-145.8156667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Turn-S</identifier>
+      <lat>62.45</lat>
+      <lon>-145.6</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>AP-4</identifier>
+      <lat>62.629</lat>
+      <lon>-145.1908333</lon>
+    </waypoint>
+  <waypoint>
+      <identifier>Exit</identifier>
+      <lat>63.6176667</lat>
+      <lon>-145.3216667</lon>
+	  </waypoint>
+    <waypoint>
+      <identifier>Exit-2</identifier>
+      <lat>62.487</lat>
+      <lon>-145.1748333</lon>
+    </waypoint>
+	</waypoint-table>
+  <route>
+    <route-name>AR720 Track 2 Round</route-name>
+    <flight-plan-index>1</flight-plan-index>
+	
+	<route-point>
+      <waypoint-identifier>Entry</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-4</waypoint-identifier>
+    </route-point>
+	
+<!--AR720-->
+	<route-point>
+      <waypoint-identifier>AP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-N</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-2</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-3</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-S</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-4</waypoint-identifier>
+    </route-point>
+	
+<!--AR720-->
+	<route-point>
+      <waypoint-identifier>AP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-N</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-2</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-3</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-S</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>AP-4</waypoint-identifier>
+    </route-point>
+	
+	
+<!--3/4 Track to exit-->
+    <route-point>
+      <waypoint-identifier>AP-1</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Turn-N</waypoint-identifier>
+    </route-point>
+	<route-point>
+      <waypoint-identifier>Exit</waypoint-identifier>
+    </route-point>
+	
+	</route>
+</flight-plan>
