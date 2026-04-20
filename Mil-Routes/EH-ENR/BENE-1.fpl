@@ -6,7 +6,8 @@
       <type>VOR</type>
       <lat>51.4480666666667</lat>
       <lon>5.37474444444444</lon>
-    </waypoint>
+      <elevation>914.4</elevation> <!-- 3000 -->
+	  </waypoint>
     <waypoint>
      <identifier>VKL</identifier>
       <type>VOR</type>
@@ -17,7 +18,13 @@
       <identifier>1A-ZUND</identifier>
       <lat>51.4666667</lat>
       <lon>4.6666667</lon>
-      <elevation>914.4</elevation>
+      <elevation>914.4</elevation> <!-- 3000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>OUDB</identifier>
+      <lat>51.6</lat>
+      <lon>4.5333333</lon>
+      <elevation>304.8</elevation> <!-- 1000 -->
     </waypoint>
     <waypoint>
       <identifier>1B-SLUI</identifier>
@@ -25,10 +32,10 @@
       <lon>3.55</lon>
     </waypoint>
     <waypoint>
-      <identifier>1B-COLP</identifier>
+      <identifier>COLP</identifier>
       <lat>51.5666667</lat>
       <lon>3.9</lon>
-      <elevation>609.6</elevation>
+      <elevation>609.65</elevation> <!-- 2000 -->
     </waypoint>
     <waypoint>
       <identifier>1C-DINT</identifier>
@@ -44,16 +51,16 @@
       <identifier>1E-NUNS</identifier>
       <lat>52.4166667</lat>
       <lon>5.7333333</lon>
-      <elevation>914.4</elevation>
+      <elevation>914.4</elevation> <!-- 3000 -->
     </waypoint>
     <waypoint>
       <identifier>1F-STAA</identifier>
       <lat>52.8666667</lat>
       <lon>5.3333333</lon>
-      <elevation>304.8</elevation>
+      <elevation>304.85</elevation> <!-- 1000 -->
     </waypoint>
     <waypoint>
-      <identifier>1F-BZDK</identifier>
+      <identifier>BZDK</identifier>
       <lat>53.0166667</lat>
       <lon>5.2166667</lon>
     </waypoint>
@@ -61,13 +68,13 @@
       <identifier>1G-VLI</identifier>
       <lat>53.3333333</lat>
       <lon>4.8</lon>
-      <elevation>487.68</elevation>
+      <elevation>914.4</elevation> <!-- 3000 -->
     </waypoint>
     <waypoint>
       <identifier>1H-AMEL</identifier>
       <lat>53.4833333</lat>
       <lon>5.6666667</lon>
-      <elevation>670.56</elevation>
+      <elevation>609.65</elevation> <!-- 2000 -->
     </waypoint>
     <waypoint>
       <identifier>1J-ROOG</identifier>
@@ -75,25 +82,43 @@
       <lon>6.5</lon>
     </waypoint>
     <waypoint>
-      <identifier>1J-TRMN</identifier>
+      <identifier>TRMN</identifier>
       <lat>53.3</lat>
       <lon>7.0833333</lon>
-    </waypoint>
+      <elevation>427.2</elevation> <!-- 1500 -->
+	  </waypoint>
     <waypoint>
       <identifier>HH5E</identifier>
       <lat>52.8666667</lat>
       <lon>7.1166667</lon>
     </waypoint>
     <waypoint>
+      <identifier>HH1A</identifier>
+      <lat>52.1</lat>
+      <lon>7.1166667</lon>
+      <elevation>609.65</elevation> <!-- 2000 -->
+	  </waypoint>
+    <waypoint>
+      <identifier>DDAM</identifier>
+      <lat>51.9166667</lat>
+      <lon>6.2333333</lon>
+	  </waypoint>
+    <waypoint>
       <identifier>HH2</identifier>
       <lat>52.7166667</lat>
       <lon>7.1333333</lon>
-    </waypoint>
+      <elevation>304.85</elevation> <!-- 1000 -->
+	  </waypoint>
+    <waypoint>
+      <identifier>HH3</identifier>
+      <lat>52.35</lat>
+      <lon>7.2</lon>
+      <elevation>762</elevation> <!-- 2500 -->
+	  </waypoint>
     <waypoint>
       <identifier>1K-SKMR</identifier>
       <lat>53.0333333</lat>
       <lon>5.75</lon>
-      <elevation>518.16</elevation>
     </waypoint>
     <waypoint>
       <identifier>1L-GIET</identifier>
@@ -101,9 +126,50 @@
       <lon>6.0333333</lon>
     </waypoint>
     <waypoint>
+      <identifier>1N</identifier>
+      <lat>53.0833333</lat>
+      <lon>5.9333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>ZDHN</identifier>
+      <lat>53.3166667</lat>
+      <lon>6.3333333</lon>
+      <elevation>427.2</elevation> <!-- 1500 -->
+	  </waypoint>
+    <waypoint>
       <identifier>1M-ALME</identifier>
       <lat>52.4333333</lat>
       <lon>6.5</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>1P</identifier>
+      <lat>53.4666667</lat>
+      <lon>6.5833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TRMN</identifier>
+      <lat>53.3</lat>
+      <lon>7.0833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>VOLKEL</identifier>
+      <lat>51.6666667</lat>
+      <lon>5.7166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MEYL</identifier>
+      <lat>51.3833333</lat>
+      <lon>5.8833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MILGI</identifier>
+      <lat>51.2061111</lat>
+      <lon>6.1305556</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>EDR 37</identifier> <!-- Nordhorn -->
+      <lat>52.4333333</lat>
+      <lon>7.2166667</lon>
     </waypoint>
 	</waypoint-table>
   <route>
@@ -118,7 +184,7 @@
       <waypoint-identifier>1B-SLUI</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1B-COLP</waypoint-identifier>
+      <waypoint-identifier>COLP</waypoint-identifier>
     </route-point>
 	<route-point>
       <waypoint-identifier>1C-DINT</waypoint-identifier>
@@ -133,7 +199,7 @@
       <waypoint-identifier>1F-STAA</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1F-BZDK</waypoint-identifier>
+      <waypoint-identifier>BZDK</waypoint-identifier>
     </route-point>
     <route-point>
       <waypoint-identifier>1G-VLI</waypoint-identifier>
@@ -145,9 +211,6 @@
       <waypoint-identifier>1J-ROOG</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1J-ROOGk</waypoint-identifier>
-    </route-point>
-    <route-point>
       <waypoint-identifier>1K-SKMR</waypoint-identifier>
     </route-point>
     <route-point>
@@ -156,8 +219,5 @@
     <route-point>
       <waypoint-identifier>1M-ALME</waypoint-identifier>
     </route-point>
-    <route-point>
-      <waypoint-identifier>EHV</waypoint-identifier>
-    </route-point>
-  </route>
+	</route>
 </flight-plan>

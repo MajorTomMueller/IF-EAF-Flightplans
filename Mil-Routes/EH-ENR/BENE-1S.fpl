@@ -21,7 +21,7 @@
       <elevation>914.4</elevation> <!-- 3000 -->
     </waypoint>
     <waypoint>
-      <identifier>1A-OUDB</identifier>
+      <identifier>OUDB</identifier>
       <lat>51.6</lat>
       <lon>4.5333333</lon>
       <elevation>304.8</elevation> <!-- 1000 -->
@@ -60,7 +60,7 @@
       <elevation>304.85</elevation> <!-- 1000 -->
     </waypoint>
     <waypoint>
-      <identifier>1F-BZDK</identifier>
+      <identifier>BZDK</identifier>
       <lat>53.0166667</lat>
       <lon>5.2166667</lon>
     </waypoint>
@@ -81,6 +81,12 @@
       <lat>53.5666667</lat>
       <lon>6.5</lon>
     </waypoint>
+    <waypoint>
+      <identifier>TRMN</identifier>
+      <lat>53.3</lat>
+      <lon>7.0833333</lon>
+      <elevation>427.2</elevation> <!-- 1500 -->
+	  </waypoint>
     <waypoint>
       <identifier>HH5E</identifier>
       <lat>52.8666667</lat>
@@ -167,21 +173,12 @@
     </waypoint>
 	</waypoint-table>
   <route>
-    <route-name>Bene 1A</route-name>
+    <route-name>Bene 1S</route-name>
     <route-point>
-      <waypoint-identifier>EHV</waypoint-identifier>
+      <waypoint-identifier>MILGI</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1A-ZUND</waypoint-identifier>
-    </route-point>
-    <route-point>
-      <waypoint-identifier>1B-SLUI</waypoint-identifier>
-    </route-point>
-    <route-point>
-      <waypoint-identifier>COLP</waypoint-identifier>
-    </route-point>
-	<route-point>
-      <waypoint-identifier>1C-DINT</waypoint-identifier>
+      <waypoint-identifier>VKL</waypoint-identifier>
     </route-point>
     <route-point>
       <waypoint-identifier>1D-TIEL</waypoint-identifier>
@@ -193,7 +190,7 @@
       <waypoint-identifier>1F-STAA</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1F-BZDK</waypoint-identifier>
+      <waypoint-identifier>BZDK</waypoint-identifier>
     </route-point>
     <route-point>
       <waypoint-identifier>1G-VLI</waypoint-identifier>
@@ -205,16 +202,13 @@
       <waypoint-identifier>1J-ROOG</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>TRMN</waypoint-identifier>
+      <waypoint-identifier>1K-SKMR</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>HH5E</waypoint-identifier>
+      <waypoint-identifier>1L-GIET</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>HH2</waypoint-identifier>
-    </route-point>
-    <route-point>
-      <waypoint-identifier>EDR 37</waypoint-identifier>
+      <waypoint-identifier>1M-ALME</waypoint-identifier>
     </route-point>
 	</route>
 </flight-plan>
