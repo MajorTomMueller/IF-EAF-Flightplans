@@ -14,13 +14,13 @@
       <lon>5.70694444444444</lon>
     </waypoint>
     <waypoint>
-      <identifier>1A</identifier>
+      <identifier>1A-ZUND</identifier>
       <lat>51.4666667</lat>
       <lon>4.6666667</lon>
       <elevation>914.4</elevation>
     </waypoint>
     <waypoint>
-      <identifier>1B</identifier>
+      <identifier>1B-SLUI</identifier>
       <lat>51.35</lat>
       <lon>3.55</lon>
     </waypoint>
@@ -31,23 +31,23 @@
       <elevation>609.6</elevation>
     </waypoint>
     <waypoint>
-      <identifier>1C</identifier>
+      <identifier>1C-DINT</identifier>
       <lat>51.7</lat>
       <lon>4.4</lon>
     </waypoint>
     <waypoint>
-      <identifier>1D</identifier>
+      <identifier>1D-TIEL</identifier>
       <lat>51.85</lat>
       <lon>5.4833333</lon>
     </waypoint>
     <waypoint>
-      <identifier>1E</identifier>
+      <identifier>1E-NUNS</identifier>
       <lat>52.4166667</lat>
       <lon>5.7333333</lon>
       <elevation>914.4</elevation>
     </waypoint>
     <waypoint>
-      <identifier>1F</identifier>
+      <identifier>1F-STAA</identifier>
       <lat>52.8666667</lat>
       <lon>5.3333333</lon>
       <elevation>304.8</elevation>
@@ -58,35 +58,50 @@
       <lon>5.2166667</lon>
     </waypoint>
     <waypoint>
-      <identifier>1G</identifier>
+      <identifier>1G-VLI</identifier>
       <lat>53.3333333</lat>
       <lon>4.8</lon>
       <elevation>487.68</elevation>
     </waypoint>
     <waypoint>
-      <identifier>1H</identifier>
+      <identifier>1H-AMEL</identifier>
       <lat>53.4833333</lat>
       <lon>5.6666667</lon>
       <elevation>670.56</elevation>
     </waypoint>
     <waypoint>
-      <identifier>1J</identifier>
+      <identifier>1J-ROOG</identifier>
       <lat>53.5666667</lat>
       <lon>6.5</lon>
     </waypoint>
     <waypoint>
-      <identifier>1K</identifier>
+      <identifier>1J-TRMN</identifier>
+      <lat>53.3</lat>
+      <lon>7.0833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>HH5E</identifier>
+      <lat>52.8666667</lat>
+      <lon>7.1166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>HH2</identifier>
+      <lat>52.7166667</lat>
+      <lon>7.1333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>1K-SKMR</identifier>
       <lat>53.0333333</lat>
       <lon>5.75</lon>
       <elevation>518.16</elevation>
     </waypoint>
     <waypoint>
-      <identifier>1L</identifier>
+      <identifier>1L-GIET</identifier>
       <lat>52.75</lat>
       <lon>6.0333333</lon>
     </waypoint>
     <waypoint>
-      <identifier>1M</identifier>
+      <identifier>1M-ALME</identifier>
       <lat>52.4333333</lat>
       <lon>6.5</lon>
     </waypoint>
@@ -97,49 +112,49 @@
       <waypoint-identifier>EHV</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1A</waypoint-identifier>
+      <waypoint-identifier>1A-ZUND</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1B</waypoint-identifier>
+      <waypoint-identifier>1B-SLUI</waypoint-identifier>
     </route-point>
     <route-point>
       <waypoint-identifier>1B-COLP</waypoint-identifier>
     </route-point>
 	<route-point>
-      <waypoint-identifier>1C</waypoint-identifier>
+      <waypoint-identifier>1C-DINT</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1D</waypoint-identifier>
+      <waypoint-identifier>1D-TIEL</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1E</waypoint-identifier>
+      <waypoint-identifier>1E-NUNS</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1F</waypoint-identifier>
+      <waypoint-identifier>1F-STAA</waypoint-identifier>
     </route-point>
     <route-point>
       <waypoint-identifier>1F-BZDK</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1G</waypoint-identifier>
+      <waypoint-identifier>1G-VLI</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1H</waypoint-identifier>	
+      <waypoint-identifier>1H-AMEL</waypoint-identifier>	
     </route-point>
     <route-point>
-      <waypoint-identifier>1J</waypoint-identifier>
+      <waypoint-identifier>1J-ROOG</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1Jk</waypoint-identifier>
+      <waypoint-identifier>1J-ROOGk</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1K</waypoint-identifier>
+      <waypoint-identifier>1K-SKMR</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1L</waypoint-identifier>
+      <waypoint-identifier>1L-GIET</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>1M</waypoint-identifier>
+      <waypoint-identifier>1M-ALME</waypoint-identifier>
     </route-point>
     <route-point>
       <waypoint-identifier>EHV</waypoint-identifier>
