@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+
+<!-- significant waypoint list -->
+  <waypoint-table>
+    <waypoint>
+      <identifier>ALME</identifier> <!-- BENE -->
+      <lat>52.4333333</lat>
+      <lon>6.5</lon>
+    </waypoint>
+    <waypoint>
+	<identifier>AMEL</identifier> <!-- AWX/BENE -->
+      <lat>53.4833333</lat>
+      <lon>5.6666667</lon>
+      <elevation>609.65</elevation> <!-- 2000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>ASTUW</identifier> <!-- EHKD: APCH -->
+      <lat>52.7745611</lat>
+      <lon>4.8558722</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>BEXWI</identifier> <!-- EHWO: APP -->
+      <lat>51.5798389</lat>
+      <lon>4.4356861</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>BERG</identifier> <!-- BENE -->
+      <lat>52.6666667</lat>
+      <lon>4.5166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>BGUM</identifier> <!-- AWX -->
+      <lat>53.1666667</lat>
+      <lon>6.0</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>BEIL</identifier> <!-- AWX -->
+      <lat>52.8833333</lat>
+      <lon>6.5166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>BOCOC</identifier> <!-- EHLW: APCH -->
+      <lat>53.1561056</lat>
+      <lon>5.5860111</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>BORK</identifier> <!-- AWX -->
+      <lat>53.5166667</lat>
+      <lon>6.7833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>BZDK</identifier> <!-- AWX/BENE -->
+      <lat>53.0166667</lat>
+      <lon>5.2166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>COLP</identifier> <!-- AWX/BENE -->
+      <lat>51.5666667</lat>
+      <lon>3.9</lon>
+      <elevation>609.65</elevation> <!-- 2000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>CREI</identifier> <!-- AWX -->
+      <lat>52.7666667</lat>
+      <lon>5.5666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>DDAM</identifier> <!-- BENE -->
+      <lat>51.9166667</lat>
+      <lon>6.2333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>DINT</identifier> <!--AWX/BENE -->
+      <lat>51.7</lat>
+      <lon>4.4</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>DINT</identifier> <!-- AWX/BENE -->
+      <lat>51.7</lat>
+      <lon>4.4</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>DOKK</identifier> <!-- HELIROUTE -->
+      <lat>53.3194444</lat>
+      <lon>5.9902778</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>EHAL</identifier> <!-- HELIROUTE -->
+      <lat>53.4527778</lat>
+      <lon>5.6777778</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>ELST</identifier> <!-- AWX -->
+      <lat>51.9</lat>
+      <lon>5.866666</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>FAFLO</identifier> <!-- EHLD: APP -->
+      <lat>53.0806611</lat>
+      <lon>4.95635</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>FESWA</identifier> <!-- EHWO: APP -->
+      <lat>51.3841667</lat>
+      <lon>4.0683417</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>FEWEX</identifier> <!-- EHKD: APP -->
+      <lat>52.8570778</lat>
+      <lon>4.6136</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>GIET</identifier>
+      <lat>52.75</lat>
+      <lon>6.0333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>GOHEM</identifier> <!-- EHKD: APP -->
+      <lat>53.0389194</lat>
+      <lon>4.9093889</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>GORK</identifier> <!-- AWX -->
+      <lat>51.8666667</lat>
+      <lon>4.9166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>HARD</identifier> <!-- AWX -->
+      <lat>52.5833333</lat>
+      <lon>6.6166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>HEDL</identifier> <!-- BENE -->
+      <lat>51.75</lat>
+      <lon>5.2833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>HH1A</identifier> <!--  -->
+      <lat>52.1</lat>
+      <lon>7.1166667</lon>
+      <elevation>609.65</elevation> <!-- 2000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>HH2</identifier>
+      <lat>52.7166667</lat>
+      <lon>7.1333333</lon>
+      <elevation>304.85</elevation> <!-- 1000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>HH3</identifier> <!--  -->
+      <lat>52.35</lat>
+      <lon>7.2</lon>
+      <elevation>762</elevation> <!-- 2500 -->
+    </waypoint>
+    <waypoint>
+      <identifier>HH5E</identifier> <!-- BENE/COP -->
+      <lat>52.8666667</lat>
+      <lon>7.1166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>HILB</identifier> <!-- AWX -->
+      <lat>51.4833333</lat>
+      <lon>5.15</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>HOXZA</identifier> <!-- EHKD: APP -->
+      <lat>52.9975111</lat>
+      <lon>4.8631444</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>HPLT</identifier> <!-- BENE -->
+      <lat>51.3833333</lat>
+      <lon>3.616666</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>IPCOL</identifier> <!-- EHLW: APP -->
+      <lat>53.3353528</lat>
+      <lon>5.8724028</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>JOPFI</identifier> <!-- EHKD: APP -->
+      <lat>53.0113694</lat>
+      <lon>4.9785111</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>JULI</identifier> <!-- COP -->
+      <lat>52.9333333</lat>
+      <lon>7.1833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>KOPFA</identifier> <!-- EHKD: APP -->
+      <lat>52.8451583</lat>
+      <lon>4.6936889</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>LEMR</identifier> <!-- BENE -->
+      <lat>52.8333333</lat>
+      <lon>5.5</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>LIVO</identifier> <!-- AWX -->
+      <lat>51.9666667</lat>
+      <lon>6.6</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>LIWOB</identifier> <!-- EHLW: APP -->
+      <lat>53.2942000</lat>
+      <lon>5.9195972</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>LOCFU</identifier> <!-- EHKD: APP -->
+      <lat>53.0624528</lat>
+      <lon>4.7027250</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MC2</identifier> <!-- DCT, LWD R-238/75 DME -->
+      <lat>52.5</lat>
+      <lon>4.05</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MC3</identifier> <!-- DCT, LWD R-238/24 DME -->
+      <lat>53.0</lat>
+      <lon>5.2</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MC4</identifier> <!-- DCT, LWD R-058/37 DME -->
+      <lat>53.5666667</lat>
+      <lon>6.6083333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MC5</identifier> <!-- DCT, TBN- -->
+      <lat>52.5916667</lat>
+      <lon>7.0591667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MC</identifier> <!-- DCT, LWD R-286/76 DME -->
+      <lat>53.5</lat>
+      <lon>3.65</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MCLZ</identifier> <!-- HELIROUTE -->
+      <lat>53.1891667</lat>
+      <lon>5.8033333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MCS</identifier> <!-- DCT, TBN -->
+      <lat>52.4833333</lat>
+      <lon>7.05</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MDYK</identifier> <!-- BENE -->
+      <lat>51.5333333</lat>
+      <lon>4.1</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MEYL</identifier> <!-- BENE -->
+      <lat>51.3833333</lat>
+      <lon>5.8833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MIDL</identifier> <!-- AWX -->
+      <lat>51.6666667</lat>
+      <lon>5.4</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MIDS</identifier> <!-- HELIROUTE -->
+      <lat>53.3841667</lat>
+      <lon>5.2783333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MILGI</identifier> <!-- DCT, NOR R-318/30 DME -->
+      <lat>51.2061111</lat>
+      <lon>6.1305556</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MILL</identifier> <!-- AWX -->
+      <lat>51.85</lat>
+      <lon>6.15</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MODY</identifier> <!-- AWX -->
+      <lat>51.6666667</lat>
+      <lon>4.6666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NAVPI</identifier> <!-- DCT -->
+      <lat>52.5472222</lat>
+      <lon>2.8405556</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NIRUC</identifier> <!-- EHWO: APP -->
+      <lat>51.5127472</lat>
+      <lon>4.6148556</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NIXCO</identifier> <!-- EHKD: APP -->
+      <lat>52.7572917</lat>
+      <lon>4.6457833</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NOFUD</identifier> <!-- EHKD: APP -->
+      <lat>52.8036833</lat>
+      <lon>4.6478083</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NORLU</identifier> <!-- DCT, NOR R-336/44 DME -->
+      <lat>51.5002778</lat>
+      <lon>6.2163889</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NOSS</identifier> <!-- AWX -->
+      <lat>51.7833333</lat>
+      <lon>5.5</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NUNS</identifier> <!--  -->
+      <lat>52.4166667</lat>
+      <lon>5.7333333</lon>
+      <elevation>914.4</elevation> <!-- 3000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>NUSP</identifier> <!-- AWX -->
+      <lat>52.3833333</lat>
+      <lon>5.7166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>OLDM</identifier> <!-- AWX -->
+      <lat>52.8166667</lat>
+      <lon>5.9833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>OSCAR</identifier> <!-- COP -->
+      <lat>51.8750000</lat>
+      <lon>6.3008333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>OSPL</identifier> <!-- BENE -->
+      <lat>51.2833333</lat>
+      <lon>5.7666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>OUDB</identifier> <!-- BENE -->
+      <lat>51.6</lat>
+      <lon>4.5333333</lon>
+      <elevation>304.8</elevation> <!-- 1000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>PAFAZ</identifier> <!-- EHWO: APP -->
+      <lat>51.3224917</lat>
+      <lon>3.9790806</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>PUFLA</identifier> <!-- EHKD: APP -->
+      <lat>53.1090111</lat>
+      <lon>4.7379750</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>RACLE</identifier> <!-- EHLW: APP -->
+      <lat>53.2530306</lat>
+      <lon>5.9667028</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>RAS</identifier> <!-- Entry EH-R4 -->
+      <lat>52.9055556</lat>
+      <lon>5.2916667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>RENE</identifier> <!-- AWX -->
+      <lat>51.9333333</lat>
+      <lon>5.5833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>RENS</identifier> <!-- AWX -->
+      <lat>51.9333333</lat>
+      <lon>5.5833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>RMND</identifier> <!-- BENE -->
+      <lat>51.2333333</lat>
+      <lon>5.9166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>ROOG</identifier> <!-- BENE -->
+      <lat>53.5666667</lat>
+      <lon>6.5</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>SEVE</identifier> <!-- BENE -->
+      <lat>51.4166667</lat>
+      <lon>6.0666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>SKMR</identifier> <!-- BENE -->
+      <lat>53.0333333</lat>
+      <lon>5.75</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>SLUI</identifier> <!-- BENE -->
+      <lat>51.35</lat>
+      <lon>3.55</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>SNEE</identifier> <!-- HELIROUTE -->
+      <lat>53.0347222</lat>
+      <lon>5.64</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>SOOG</identifier> <!-- HELIROUTE -->
+      <lat>53.4741667</lat>
+      <lon>6.195</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>STAA</identifier> <!-- BENE -->
+      <lat>52.8666667</lat>
+      <lon>5.3333333</lon>
+      <elevation>304.85</elevation> <!-- 1000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>STAV</identifier> <!-- AWX -->
+      <lat>52.8833333</lat>
+      <lon>5.3333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>STKA</identifier> <!-- AWX -->
+      <lat>53.0333333</lat>
+      <lon>6.9</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>STUI</identifier> <!-- AWX -->
+      <lat>51.5</lat>
+      <lon>4.7333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TAFTU</identifier> <!-- nA -->
+      <lat>52.8048389</lat>
+      <lon>4.742294</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TERM</identifier> <!-- AWX -->
+      <lat>53.2666667</lat>
+      <lon>7.0166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>THR07</identifier> <!-- EHWO: APP -->
+      <lat>51.4451361</lat>
+      <lon>4.3257139</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>THR25</identifier> <!-- EHWO: APP -->
+      <lat>51.4528722</lat>
+      <lon>4.3585889</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TIEL</identifier> <!-- AXW/BENE -->
+      <lat>51.85</lat>
+      <lon>5.4833333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TOHAR</identifier> <!-- EHLW: APP -->
+      <lat>53.1276417</lat>
+      <lon>5.5177972</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TOLD</identifier> <!-- AWX -->
+      <lat>52.05</lat>
+      <lon>6.2333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TRMN</identifier> <!-- BENE -->
+      <lat>53.3</lat>
+      <lon>7.0833333</lon>
+      <elevation>427.2</elevation> <!-- 1500 -->
+    </waypoint>
+    <waypoint>
+      <identifier>UCTOW</identifier> <!-- EHWO: APP -->
+      <lat>51.4619389</lat>
+      <lon>4.0209194</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>UMGC</identifier> <!-- HELIROUTE -->
+      <lat>53.225</lat>
+      <lon>6.575</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>UPJEF</identifier> <!-- EHWO: APP -->
+      <lat>51.5907167</lat>
+      <lon>4.5681417</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>URK</identifier> <!-- BENE -->
+      <lat>52.6333333</lat>
+      <lon>5.5666667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>VEFKI</identifier> <!-- EHLW: APP -->
+      <lat>53.1150639</lat>
+      <lon>5.6332806</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>VERE</identifier> <!-- AWX -->
+      <lat>51.6</lat>
+      <lon>3.65</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>VL</identifier> <!-- HELIROUTE -->
+      <lat>53.2972222</lat>
+      <lon>5.0872222</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>VLI</identifier> <!-- AWX/BENE -->
+      <lat>53.3333333</lat>
+      <lon>4.8</lon>
+      <elevation>914.4</elevation> <!-- 3000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>VLR</identifier> <!-- AWX -->
+      <lat>53.2333333</lat>
+      <lon>4.9166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>VUZCO</identifier> <!-- EHWO: APP -->
+      <lat>51.5417806</lat>
+      <lon>4.7399083</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>W1C</identifier> <!-- UW1, EHV R-355/41 DME -->
+      <lat>52.1258333</lat>
+      <lon>5.2730556</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>W1N</identifier> <!-- UW1, EHV R-355/81 DME -->
+      <lat>52.7888889</lat>
+      <lon>5.1705556</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>W1S</identifier> <!-- UW1, EHV R-355/32 DME -->
+      <lat>51.9819444</lat>
+      <lon>5.295</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>W2N</identifier> <!--  LWD R-124/10 DME -->
+      <lat>53.1366667</lat>
+      <lon>5.9716667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>W2S</identifier> <!--  LWD R-125/34 DME -->
+      <lat>52.8997222</lat>
+      <lon>6.5272222</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>W3C</identifier> <!-- UW3, VLK R-049/27 DME -->
+      <lat>51.9638889</lat>
+      <lon>6.2902778</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>W3N</identifier> <!-- UW3, VLK R-048/66 DME -->
+      <lat>52.3663889</lat>
+      <lon>7.0727778</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>W3S</identifier> <!-- UW3, VLK R-059/39 DME -->
+      <lat>51.8011111</lat>
+      <lon>5.9808333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>WHSD</identifier> <!-- BENE -->
+      <lat>51.7333333</lat>
+      <lon>3.8166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>WO402</identifier> <!-- EHWO: APP -->
+      <lat>51.4098889</lat>
+      <lon>4.1765472</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>WO406</identifier> <!-- EHWO: APP -->
+      <lat>51.4608889</lat>
+      <lon>4.3926111</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>WO412</identifier> <!-- EHWO: APP -->
+      <lat>51.4874500</lat>
+      <lon>4.5061528</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>WO416</identifier> <!-- EHWO: APP -->
+      <lat>51.4375194</lat>
+      <lon>4.2933917</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>WO417</identifier> <!-- EHWO: APP -->
+      <lat>51.4198667</lat>
+      <lon>4.2186639</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>WO418</identifier> <!-- EHWO: APP -->
+      <lat>51.5602250</lat>
+      <lon>4.2014611</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>WSTR</identifier> <!-- AWX -->
+      <lat>52.8166667</lat>
+      <lon>6.6</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>WYCH</identifier> <!-- BENE -->
+      <lat>51.8166667</lat>
+      <lon>5.7333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>XIND</identifier> <!-- COP -->
+      <lat>54.2</lat>
+      <lon>6.5</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>XLAH</identifier> <!-- COP -->
+      <lat>51.6019444</lat>
+      <lon>6.1413889</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>XMCT</identifier> <!-- COP -->
+      <lat>52.3</lat>
+      <lon>7.0166667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>XOZEP</identifier> <!-- EHLW: APP -->
+      <lat>53.3224306</lat>
+      <lon>5.9883417</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>XYKE</identifier> <!-- COP -->
+      <lat>53.9</lat>
+      <lon>6.5</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>YOJUP</identifier> <!-- EHKD: APP -->
+      <lat>52.9695694</lat>
+      <lon>4.9317</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>ZABO</identifier> <!-- AWX -->
+      <lat>51.8166667</lat>
+      <lon>5.25</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>ZDHN</identifier> <!--  -->
+      <lat>53.3166667</lat>
+      <lon>6.3333333</lon>
+      <elevation>427.2</elevation> <!-- 1500 -->
+    </waypoint>
+    <waypoint>
+      <identifier>ZOJIK</identifier> <!-- EHKD: APP -->
+      <lat>53.0393167</lat>
+      <lon>4.9098972</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>ZUND</identifier> <!-- AWX/BENE -->
+      <lat>51.4666667</lat>
+      <lon>4.6666667</lon>
+      <elevation>914.4</elevation> <!-- 3000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>ZWSL</identifier> <!-- AWX -->
+      <lat>52.65</lat>
+      <lon>6.1</lon>
+    </waypoint>
+
+<!-- special waypoints -->
+    <waypoint>
+      <identifier>VOLKEL</identifier> <!--  -->
+      <lat>51.6666667</lat>
+      <lon>5.7166667</lon>
+    </waypoint>
+    <waypoint>
+     <identifier>VKL</identifier> <!--  -->
+      <type>VOR</type>
+      <lat>51.6555555555556</lat>
+      <lon>5.70694444444444</lon>
+    </waypoint>
+  </waypoint-table>
+
+  <route>
+    <route-name>Windows</route-name>
+    <waypoint>
+      <identifier>EHV</identifier> <!--  -->
+      <type>VOR</type>
+      <lat>51.4480666666667</lat>
+      <lon>5.37474444444444</lon>
+      <elevation>914.4</elevation> <!-- 3000 -->
+    </waypoint>
+    <waypoint>
+      <identifier>EDR 37</identifier> <!-- Nordhorn -->
+      <lat>52.4333333</lat>
+      <lon>7.2166667</lon>
+    </waypoint>
+    <route-point>
+      <waypoint-identifier>W1S</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>W1C</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>W1N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>W2N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>W2S</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>W3N</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>W3C</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>W3S</waypoint-identifier>
+    </route-point>
+  </route>
+
+</flight-plan>
