@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+    <waypoint-table>
+        <waypoint>
+            <identifier>NW</identifier>
+            <lat>51.773611</lat>
+            <lon>-4.4</lon>
+            <comment>NW</comment>
+            <elevation>109.0</elevation>
+        </waypoint>
+        <waypoint>
+            <identifier>12 O'C</identifier>
+            <lat>51.778249</lat>
+            <lon>-4.3611745</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>1 O'C</identifier>
+            <lat>51.7703503</lat>
+            <lon>-4.3147768</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>2 O'C</identifier>
+            <lat>51.7492805</lat>
+            <lon>-4.2807858</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>3 O'C</identifier>
+            <lat>51.7204631</lat>
+            <lon>-4.2680875</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>4 O'C</identifier>
+            <lat>51.6914262</lat>
+            <lon>-4.2802279</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>5 O'C</identifier>
+            <lat>51.6699176</lat>
+            <lon>-4.3142194</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>6 O'C</identifier>
+            <lat>51.6617957</lat>
+            <lon>-4.3611765</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>SW</identifier>
+            <lat>51.6669444</lat>
+            <lon>-4.4</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>Turn in</identifier>
+            <lat>51.7334816</lat>
+            <lon>-4.3200515</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>T1</identifier>
+            <lat>51.7186126</lat>
+            <lon>-4.3672211</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>T2</identifier>
+            <lat>51.7203043</lat>
+            <lon>-4.3684093</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>T3.1</identifier>
+            <lat>51.7206857</lat>
+            <lon>-4.3691642</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>T3.2</identifier>
+            <lat>51.7211203</lat>
+            <lon>-4.3694633</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>T3.3</identifier>
+            <lat>51.7215376</lat>
+            <lon>-4.3697167</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>T4</identifier>
+            <lat>51.7226618</lat>
+            <lon>-4.3695142</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>T5 AC</identifier>
+            <lat>51.7254047</lat>
+            <lon>-4.3707898</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>Truck N</identifier>
+            <lat>51.7254883</lat>
+            <lon>-4.3700914</lon>
+        </waypoint>
+        <waypoint>
+            <identifier>Truck E</identifier>
+            <lat>51.7233744</lat>
+            <lon>-4.3696972</lon>
+            <comment>TRUCKS E</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Truck W</identifier>
+            <lat>51.7232561</lat>
+            <lon>-4.3708511</lon>
+            <comment>TRUCKS W</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>T S2a</identifier>
+            <lat>51.7214833</lat>
+            <lon>-4.3624424</lon>
+            <comment>SMALL TARGET 2A</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>T S2b</identifier>
+            <lat>51.7207356</lat>
+            <lon>-4.365985</lon>
+            <comment>SMALL TARGET 2B</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>T S3</identifier>
+           <lat>51.7228663</lat>
+            <lon>-4.3636724</lon>
+            <comment>SMALL TARGET 33A</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>T S4</identifier>
+            <lat>51.7226963</lat>
+            <lon>-4.36671</lon>
+            <comment>SMALL TARGET 33B</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>T S5</identifier>
+            <lat>51.7243682</lat>
+            <lon>-4.3672467</lon>
+            <comment>SMALL TARGET N</comment>
+        </waypoint>
+    </waypoint-table>
+    <route>
+        <route-name>EG-D118 Pembrey AWR</route-name>
+        <flight-plan-index>1</flight-plan-index>
+        <route-point>
+            <waypoint-identifier>SW</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>NW</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>12 O'C</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>1 O'C</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>2 O'C</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>3 O'C</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>4 O'C</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>5 O'C</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>6 O'C</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>SW</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>NW</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>Turn in</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T1</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T2</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T3.1</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T3.2</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T3.3</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T4</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T5 AC</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>Truck N</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>Truck E</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>Truck W</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T S2a</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T S2b</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T S3</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T S4</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>T S5</waypoint-identifier>
+        </route-point>
+    </route>
+</flight-plan>

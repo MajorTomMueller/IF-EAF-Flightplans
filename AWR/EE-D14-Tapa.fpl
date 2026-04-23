@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+<!--c by Major Tom-->
+<waypoint-table>
+
+<!--EED14 bdry-->
+        <waypoint>
+            <identifier>EED14-1</identifier>
+            <lat>59.2969444</lat>
+            <lon>025.7744444</lon>
+            <comment>Bdry</comment>
+            <elevation>4480.56</elevation>
+        </waypoint>
+        <waypoint>
+            <identifier>EED14-2</identifier>
+            <lat>59.2713889</lat>
+            <lon>025.9241667</lon>
+            <comment>Bdry</comment>
+            <elevation>4480.56</elevation>
+        </waypoint>
+        <waypoint>
+            <identifier>EED14-3</identifier>
+            <lat>59.4436111</lat>
+            <lon>025.8972222</lon>
+            <comment>Bdry</comment>
+            <elevation>4480.56</elevation>
+        </waypoint>
+        <waypoint>
+            <identifier>EED14-4</identifier>
+            <lat>59.4583333</lat>
+            <lon>025.7202778</lon>
+            <comment>Bdry</comment>
+            <elevation>4480.56</elevation>
+        </waypoint>
+
+<!--Targets-->
+        <waypoint>
+            <identifier>Target 1</identifier>
+            <lat>59.3727750</lat>
+            <lon>025.8278</lon>
+            <comment>Bombing Circle, Dirt floor Orange mesh cicle 281ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 2</identifier>
+            <lat>59.3709472</lat>
+            <lon>025.819311</lon>
+            <comment>APC, Scraped vehivle, 285ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3A</identifier>
+            <lat>59.3710528</lat>
+            <lon>025.8273361</lon>
+            <comment>Village, Single Conex, 294ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3B</identifier>
+            <lat>59.3699861</lat>
+            <lon>025.8268778</lon>
+            <comment>Village, Single Conex, 290ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3C</identifier>
+            <lat>59.3694028</lat>
+            <lon>025.8247389</lon>
+            <comment>Village, Single Conex, 290ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3D</identifier>
+            <lat>59.3709694</lat>
+            <lon>025.8239167</lon>
+            <comment>Village, Single Conex, 272ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3E</identifier>
+            <lat>59.3707417</lat>
+            <lon>025.8268194</lon>
+            <comment>Village, 2 Conex T-shape, 290ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3F</identifier>
+            <lat>59.3709278</lat>
+            <lon>025.8261417</lon>
+            <comment>Village, 2 Conex L-shape, 282ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3G</identifier>
+            <lat>59.3705056</lat>
+            <lon>025.8261361</lon>
+            <comment>Village, 2 Conex T-shape, 292ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3H</identifier>
+            <lat>59.3702500</lat>
+            <lon>025.8256278</lon>
+            <comment>Village, Single Conex, 282ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3I</identifier>
+            <lat>59.3705444</lat>
+            <lon>025.8270778</lon>
+            <comment>Village, concrete bunkers, 285ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3J</identifier>
+            <lat>59.3704667</lat>
+            <lon>025.8269111</lon>
+            <comment>Village, concrete bunkers, 283ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3K</identifier>
+            <lat>59.3693472</lat>
+            <lon>025.8243556</lon>
+            <comment>Village, scraped vehicles, 289ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 3L</identifier>
+            <lat>59.3708861</lat>
+            <lon>025.82635</lon>
+            <comment>Village, scraped vehicles, 282ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 4A</identifier>
+            <lat>59.3669278</lat>
+            <lon>025.8344389</lon>
+            <comment>convoi south, scraped veheicles, 278ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 4B</identifier>
+            <lat>59.3667889</lat>
+            <lon>025.8339139</lon>
+            <comment>convoi south, scraped veheicles, 279ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 4C</identifier>
+            <lat>59.3666583</lat>
+            <lon>025.8333694</lon>
+            <comment>convoi south, scraped veheicles, 28ßft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 4D</identifier>
+            <lat>59.3663833</lat>
+            <lon>025.8333139</lon>
+            <comment>convoi south, scraped veheicles, 279ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 5A</identifier>
+            <lat>59.3723139</lat>
+            <lon>025.8286861</lon>
+            <comment>convoi north, scraped veheicles, 281ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 5B</identifier>
+            <lat>59.3723917</lat>
+            <lon>025.8290333</lon>
+            <comment>convoi north, scraped veheicles, 281ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 5C</identifier>
+            <lat>59.3726167</lat>
+            <lon>025.8294444</lon>
+            <comment>convoi north, scraped veheicles, 278ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 5D</identifier>
+            <lat>59.3728139</lat>
+            <lon>025.8297222</lon>
+            <comment>convoi north, scraped veheicles, 277ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 6</identifier>
+            <lat>59.3721583</lat>
+            <lon>025.8222861</lon>
+            <comment>bomb shelter, underground shelter, 275ft</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Target 7</identifier>
+            <lat>59.3718500</lat>
+            <lon>025.828905</lon>
+            <comment>SA-9, scraped veheicles, 288ft</comment>
+        </waypoint>
+
+<!--towers-->
+        <waypoint>
+            <identifier>Main Tower</identifier>
+            <lat>59.3710583</lat>
+            <lon>025.8497083</lon>
+            <comment>East</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Flank Tower</identifier>
+            <lat>59.3624361</lat>
+            <lon>025.7981083</lon>
+            <comment>East</comment>
+        </waypoint>
+
+<!--Initial Points-->
+        <waypoint>
+            <identifier>Paris</identifier>
+            <lat>59.2896611</lat>
+            <lon>026.1761556</lon>
+            <comment>242, T-Junction W of small lake</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>4 Lakes</identifier>
+            <lat>59.2398639</lat>
+            <lon>025.698738</lon>
+            <comment>242, T-Junction S of industrial complex</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Pinewood</identifier>
+            <lat>59.2849472</lat>
+            <lon>026.0437306</lon>
+            <comment>344, road N of powerlines</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Sandbox</identifier>
+            <lat>59.4484972</lat>
+            <lon>026.0737083</lon>
+            <comment>262, double Y-junction on highway</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Whitewater</identifier>
+            <lat>59.5182417</lat>
+            <lon>025.7629028</lon>
+            <comment>68, Y-junction of ribers</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Peasoup</identifier>
+            <lat>59.2091722</lat>
+            <lon>026.1474222</lon>
+            <comment>328, bridge</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Blackstream</identifier>
+            <lat>59.5131028</lat>
+            <lon>026.1617694</lon>
+            <comment>183, bridge</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>Angry</identifier>
+            <lat>59.5519500</lat>
+            <lon>025.7871611</lon>
+            <comment>41, X-road</comment>
+        </waypoint>
+
+<!--Contact Points-->
+        <waypoint>
+            <identifier>CP 1</identifier>
+            <lat>59.6208333</lat>
+            <lon>025.7791667</lon>
+            <comment>32, Village on the cape</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>CP 2</identifier>
+            <lat>59.125</lat>
+            <lon>025.6644444</lon>
+            <comment>262, open field N of village</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>CP 3</identifier>
+            <lat>59.7391667</lat>
+            <lon>026.25</lon>
+            <comment>0, over sea</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>CP 4</identifier>
+            <lat>59.125</lat>
+            <lon>026.25</lon>
+            <comment>364, Väike-Maarja village</comment>
+        </waypoint>
+        <waypoint>
+            <identifier>CP 5</identifier>
+            <lat>59.4033333</lat>
+            <lon>025.5955556</lon>
+            <comment>233, NE of Soodla reservoir</comment>
+        </waypoint>
+
+<!--Minimum Risk Route-->
+    <waypoint>
+       <identifier>MMR 1</identifier>
+       <lat>59.7</lat>
+       <lon>25.</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MMR 2</identifier>
+      <lat>59.60</lat>
+      <lon>24.51</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MMR 3</identifier>
+      <lat>59.3931</lat>
+      <lon>24.2953</lon>
+    </waypoint>
+
+	</waypoint-table>
+    <route>
+        <route-name>EED14-Tapa</route-name>
+        <flight-plan-index>1</flight-plan-index>
+
+<!--Contact Points-->
+        <route-point>
+           <waypoint-identifier>CP 1</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>CP 3</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>CP 4</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>CP 2</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>CP 5</waypoint-identifier>
+        </route-point>
+
+<!--Initial Points-->
+       <route-point>
+       <waypoint-identifier>Whitewater</waypoint-identifier>
+        </route-point>
+       <route-point>
+           <waypoint-identifier>Angry</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>Blackstream</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>Sandbox</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>Paris</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>Pinewood</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>Peasoup</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>4 Lakes</waypoint-identifier>
+        </route-point>
+
+<!--bdry-->
+        <route-point>
+            <waypoint-identifier>EED14-1</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>EED14-2</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>EED14-3</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>EED14-4</waypoint-identifier>
+        </route-point>
+        <route-point>
+            <waypoint-identifier>EED14-1</waypoint-identifier>
+			<!--equals wp 5-->
+        </route-point>
+		
+<!--Towers-->
+        <route-point>
+		<waypoint-identifier>Main Tower</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Flank Tower</waypoint-identifier>
+        </route-point>
+
+<!--Targets-->
+        <route-point>
+		<waypoint-identifier>Target 1</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 2</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3A</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3B</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3C</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3D</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3E</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3F</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3G</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3H</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3I</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3J</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3K</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 3L</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 4A</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 4B</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 4C</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 4D</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 5A</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 5B</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 5C</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 5D</waypoint-identifier>
+        </route-point>
+        <route-point>
+		<waypoint-identifier>Target 6</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>Target 7</waypoint-identifier>
+        </route-point>
+
+<!--Minimum Risk Route egrease-->
+        <route-point>
+           <waypoint-identifier>CP 1</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>MMR 1</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>MMR 2</waypoint-identifier>
+        </route-point>
+        <route-point>
+           <waypoint-identifier>MMR 3</waypoint-identifier>
+        </route-point>
+    </route>
+</flight-plan>
