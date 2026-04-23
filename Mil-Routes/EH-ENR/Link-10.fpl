@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+    <waypoint>
+      <identifier>Link10-1</identifier>
+      <lat>52.075</lat>
+      <lon>6.7333333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Link10-2</identifier>
+      <lat>52.2444444</lat>
+      <lon>6.6583333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Link10-3</identifier>
+      <lat>52.2916667</lat>
+      <lon>6.6416667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Link10-4</identifier>
+      <lat>52.4166667</lat>
+      <lon>6.6083333</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Link10-5</identifier>
+      <lat>52.6111111</lat>
+      <lon>6.55</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>Link10-6</identifier>
+      <lat>53.05</lat>
+      <lon>7.225</lon>
+    </waypoint>
+	</waypoint-table>
+  <route>
+    <route-name> Lonk route 10 </route-name>
+    <route-point>
+      <waypoint-identifier>Link10-1</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Link10-2</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Link10-3</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Link10-4</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Link10-5</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>Link10-6</waypoint-identifier>
+    </route-point>
+  </route>
+</flight-plan>
