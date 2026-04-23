@@ -33,11 +33,13 @@
       <identifier>BGUM</identifier> <!-- AWX -->
       <lat>53.1666667</lat>
       <lon>6.0</lon>
+      <elevation>914.4</elevation> <!-- 3000 -->
     </waypoint>
     <waypoint>
       <identifier>BEIL</identifier> <!-- AWX -->
       <lat>52.8833333</lat>
       <lon>6.5166667</lon>
+      <elevation>457.2</elevation> <!-- 1500 -->
     </waypoint>
     <waypoint>
       <identifier>BOCOC</identifier> <!-- EHLW: APCH -->
@@ -48,6 +50,7 @@
       <identifier>BORK</identifier> <!-- AWX -->
       <lat>53.5166667</lat>
       <lon>6.7833333</lon>
+      <elevation>609.65</elevation> <!-- 2000 -->
     </waypoint>
     <waypoint>
       <identifier>BZDK</identifier> <!-- AWX/BENE -->
@@ -58,7 +61,6 @@
       <identifier>COLP</identifier> <!-- AWX/BENE -->
       <lat>51.5666667</lat>
       <lon>3.9</lon>
-      <elevation>609.65</elevation> <!-- 2000 -->
     </waypoint>
     <waypoint>
       <identifier>CREI</identifier> <!-- AWX -->
@@ -94,6 +96,7 @@
       <identifier>ELST</identifier> <!-- AWX -->
       <lat>51.9</lat>
       <lon>5.866666</lon>
+      <elevation>914.4</elevation> <!-- 3000 -->
     </waypoint>
     <waypoint>
       <identifier>FAFLO</identifier> <!-- EHLD: APP -->
@@ -139,13 +142,11 @@
       <identifier>HH1A</identifier> <!--  -->
       <lat>52.1</lat>
       <lon>7.1166667</lon>
-      <elevation>609.65</elevation> <!-- 2000 -->
     </waypoint>
     <waypoint>
       <identifier>HH2</identifier>
       <lat>52.7166667</lat>
       <lon>7.1333333</lon>
-      <elevation>304.85</elevation> <!-- 1000 -->
     </waypoint>
     <waypoint>
       <identifier>HH3</identifier> <!--  -->
@@ -323,6 +324,7 @@
       <identifier>NUSP</identifier> <!-- AWX -->
       <lat>52.3833333</lat>
       <lon>5.7166667</lon>
+      <elevation>914.4</elevation> <!-- 3000 -->
     </waypoint>
     <waypoint>
       <identifier>OLDM</identifier> <!-- AWX -->
@@ -391,7 +393,7 @@
       <lon>6.0666667</lon>
     </waypoint>
     <waypoint>
-      <identifier>SKMR</identifier> <!-- BENE -->
+      <identifier>SKMR_</identifier> <!-- BENE -->
       <lat>53.0333333</lat>
       <lon>5.75</lon>
     </waypoint>
@@ -414,7 +416,6 @@
       <identifier>STAA</identifier> <!-- BENE -->
       <lat>52.8666667</lat>
       <lon>5.3333333</lon>
-      <elevation>304.85</elevation> <!-- 1000 -->
     </waypoint>
     <waypoint>
       <identifier>STAV</identifier> <!-- AWX -->
@@ -465,6 +466,7 @@
       <identifier>TOLD</identifier> <!-- AWX -->
       <lat>52.05</lat>
       <lon>6.2333333</lon>
+      <elevation>609.6</elevation> <!--  2000 -->
     </waypoint>
     <waypoint>
       <identifier>TRMN</identifier> <!-- BENE -->
@@ -501,6 +503,7 @@
       <identifier>VERE</identifier> <!-- AWX -->
       <lat>51.6</lat>
       <lon>3.65</lon>
+      <elevation>914.4</elevation> <!-- 3000 -->
     </waypoint>
     <waypoint>
       <identifier>VL</identifier> <!-- HELIROUTE -->
@@ -511,7 +514,6 @@
       <identifier>VLI</identifier> <!-- AWX/BENE -->
       <lat>53.3333333</lat>
       <lon>4.8</lon>
-      <elevation>914.4</elevation> <!-- 3000 -->
     </waypoint>
     <waypoint>
       <identifier>VLR</identifier> <!-- AWX -->
@@ -642,12 +644,12 @@
       <identifier>ZABO</identifier> <!-- AWX -->
       <lat>51.8166667</lat>
       <lon>5.25</lon>
+      <elevation>609.65</elevation> <!-- 2000 -->
     </waypoint>
     <waypoint>
       <identifier>ZDHN</identifier> <!--  -->
       <lat>53.3166667</lat>
       <lon>6.3333333</lon>
-      <elevation>427.2</elevation> <!-- 1500 -->
     </waypoint>
     <waypoint>
       <identifier>ZOJIK</identifier> <!-- EHKD: APP -->
@@ -658,7 +660,6 @@
       <identifier>ZUND</identifier> <!-- AWX/BENE -->
       <lat>51.4666667</lat>
       <lon>4.6666667</lon>
-      <elevation>914.4</elevation> <!-- 3000 -->
     </waypoint>
     <waypoint>
       <identifier>ZWSL</identifier> <!-- AWX -->
@@ -678,34 +679,68 @@
       <lat>51.6555555555556</lat>
       <lon>5.70694444444444</lon>
     </waypoint>
+    <waypoint>
+      <identifier>GZR</identifier>
+      <type>VOR</type>
+      <lat>51.5658538888889</lat>
+      <lon>4.93335027777778</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>EHVK</identifier>
+      <type>AIRPORT</type>
+      <lat>51.6564464569092</lat>
+      <lon>5.708624958992</lon>
+      <elevation>609.65</elevation> <!-- 2000 -->
+    </waypoint>
   </waypoint-table>
-
+ 
   <route>
-    <route-name>Windows</route-name>
+    <route-name>AWX route 5</route-name>
     <route-point>
-      <waypoint-identifier>W1S</waypoint-identifier>
+      <waypoint-identifier>TOLD</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>W1C</waypoint-identifier>
+      <waypoint-identifier>NOSS</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>W1N</waypoint-identifier>
+      <waypoint-identifier>HILB</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>W2N</waypoint-identifier>
+      <waypoint-identifier>STUI</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>W2S</waypoint-identifier>
+      <waypoint-identifier>GORK</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>W3N</waypoint-identifier>
+      <waypoint-identifier>RENS</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>W3C</waypoint-identifier>
+      <waypoint-identifier>NUNS</waypoint-identifier>
     </route-point>
     <route-point>
-      <waypoint-identifier>W3S</waypoint-identifier>
+      <waypoint-identifier>STAV</waypoint-identifier>
     </route-point>
-  </route>
+    <route-point>
+      <waypoint-identifier>BZDK</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>VLI</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>AMEL</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>ROOG</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>SKMR_</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>WSTR</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>TOLD</waypoint-identifier>
+    </route-point>
+	</route>
 
 </flight-plan>
