@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <created>2020-11-03T13:19:40Z</created>
+  <waypoint-table>
+    <waypoint>
+      <identifier>EGVN</identifier>
+      <type>AIRPORT</type>
+      <country-code>EG</country-code>
+      <lat>51.749986</lat>
+      <lon>-1.582947</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>DILAX</identifier>
+      <type>INT</type>
+      <country-code>EG</country-code>
+      <lat>51.755556</lat>
+      <lon>-1.677500</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>BUGUP</identifier>
+      <type>INT</type>
+      <country-code>EG</country-code>
+      <lat>51.876944</lat>
+      <lon>-1.616667</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>DTY</identifier>
+      <type>VOR</type>
+      <country-code>EG</country-code>
+      <lat>52.180278</lat>
+      <lon>-1.113889</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>WELIN</identifier>
+      <type>INT</type>
+      <country-code>EG</country-code>
+      <lat>52.247222</lat>
+      <lon>-0.852222</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>BANTO</identifier>
+      <type>INT</type>
+      <country-code>EG</country-code>
+      <lat>52.357778</lat>
+      <lon>-0.232500</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>SIVDA</identifier>
+      <type>INT</type>
+      <country-code>EG</country-code>
+      <lat>52.356111</lat>
+      <lon>0.029722</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>UMBAG</identifier>
+      <type>INT</type>
+      <country-code>EG</country-code>
+      <lat>52.347778</lat>
+      <lon>0.782500</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>BANEM</identifier>
+      <type>INT</type>
+      <country-code>EG</country-code>
+      <lat>52.335556</lat>
+      <lon>1.505278</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>ABEDA</identifier>
+      <type>INT</type>
+      <country-code>EG</country-code>
+      <lat>52.327778</lat>
+      <lon>1.871111</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>EBAGO</identifier>
+      <type>INT</type>
+      <country-code>EH</country-code>
+      <lat>53.638431</lat>
+      <lon>3.766017</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>LANUL</identifier>
+      <type>INT</type>
+      <country-code>EK</country-code>
+      <lat>55.000000</lat>
+      <lon>7.697222</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>MIKRO</identifier>
+      <type>INT</type>
+      <country-code>EK</country-code>
+      <lat>55.415000</lat>
+      <lon>8.166389</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>SURIR</identifier>
+      <type>INT</type>
+      <country-code>EK</country-code>
+      <lat>55.428889</lat>
+      <lon>8.421389</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>FAP18</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code />
+      <lat>55.316944</lat>
+      <lon>8.484444</lon>
+      <elevation>2500</elevation>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>MApPt18</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code />
+      <lat>55.192222</lat>
+      <lon>8.484444</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>RWY18</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code />
+      <lat>55.141389</lat>
+      <lon>8.484444</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>RW36</identifier>
+      <type>USER WAYPOINT</type>
+      <country-code />
+      <lat>55.150833</lat>
+      <lon>8.484444</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>MApPt36</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>55.099722</lat>
+      <lon>8.484444</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>FAP36</identifier>
+      <lat>54.975000</lat>
+      <lon>8.484444</lon>
+      <elevation>2500</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>SLT</identifier>
+      <lat>54.856897</lat>
+      <lon>8.409983</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>TISOS</identifier>
+      <lat>54.500000</lat>
+      <lon>7.310667</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>GIROS</identifier>
+      <lat>53.500872</lat>
+      <lon>3.646394</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>BARMI</identifier>
+      <lat>52.478333</lat>
+      <lon>2.570556</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MEGEL</identifier>
+      <lat>52.349444</lat>
+      <lon>2.073611</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>DITOB</identifier>
+      <lat>52.283611</lat>
+      <lon>1.824167</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>MIPVO</identifier>
+      <lat>52.224722</lat>
+      <lon>1.602500</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>LAPRA</identifier>
+      <lat>52.118611</lat>
+      <lon>1.210000</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>BKY</identifier>
+      <lat>51.989722</lat>
+      <lon>0.061944</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>NUGBO</identifier>
+      <lat>51.972778</lat>
+      <lon>-0.070000</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>SILVA</identifier>
+      <lat>51.847500</lat>
+      <lon>-1.005278</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>KIDLI</identifier>
+      <lat>51.771389</lat>
+      <lon>-1.361389</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>EGVN</identifier>
+      <lat>51.749986</lat>
+      <lon>-1.582947</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name>Romø</route-name>
+    <flight-plan-index>1</flight-plan-index>
+    <route-point>
+      <waypoint-identifier>SLT</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>FAP36</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MApPt36</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>RWY36</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>RWY18</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>MApPt18</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>FAP18</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>SURIR</waypoint-identifier>
+    </route-point>
+  </route>
+</flight-plan>

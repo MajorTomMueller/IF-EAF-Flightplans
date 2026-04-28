@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+<!--EGUL RAF Lakenheath-->
+    <waypoint>
+      <identifier>EGUL</identifier>
+      <lat>52.409403</lat>
+      <lon>0.561011</lon>
+      <elevation>9.7536</elevation>
+      <comment>RAF Lakenheath</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>OTMUK</identifier>
+      <lat>52.3913</lat>
+      <lon>0.5178</lon>
+      <elevation>69.49</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ASROT</identifier>
+      <lat>52.6437</lat>
+      <lon>-0.0124</lon>
+      <elevation>1828.8</elevation>
+      <comment>Lakenheath Departure North</comment>
+    </waypoint>
+   <waypoint>
+      <identifier>D266J</identifier>
+      <lat>52.66390111</lat>
+      <lon>0.99584722</lon>
+      <elevation>1828.8</elevation>
+      <comment>Lakenheath arrival North East</comment>
+    </waypoint>
+<!--EGUL ILS RWY24-->
+    <waypoint>
+      <identifier>ASRAM</identifier>
+      <lat>52.5472056</lat>
+      <lon>0.9498972</lon>
+      <elevation>762</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>UNVUT</identifier>
+      <lat>52.4817</lat>
+      <lon>0.7846</lon>
+      <elevation>670.56</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>ODEXA</identifier>
+      <lat>52.4707</lat>
+      <lon>0.7084</lon>
+      <elevation>548.64</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>LUGED</identifier>
+      <lat>52.4517</lat>
+      <lon>0.6625</lon>
+      <elevation>396.24</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>XERSA</identifier>
+      <lat>52.4216</lat>
+      <lon>0.5902</lon>
+      <elevation>69.49</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>RWY24</identifier>
+      <lat>52.414658519</lat>
+      <lon>0.573608790</lon>
+      <elevation>9.7536</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>RWY06</identifier>
+      <lat>52.404089889</lat>
+      <lon>0.548305082</lon>
+      <elevation>9.7536</elevation>
+    </waypoint>
+<!--Vejers Strand DK-->
+    <waypoint>
+      <identifier>BEGAK</identifier>
+      <lat>55.0</lat>
+      <lon>7.37</lon>
+      <elevation>1828.8</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>V07FAF</identifier>
+      <lat>55.4711833</lat>
+      <lon>8.0323722</lon>
+      <comment>Vejers Strip 07 FAF</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>V07MApPt</identifier>
+      <lat>55.5885972</lat>
+      <lon>8.0960694</lon>
+      <comment>Vejers Strip 07 MApPt</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>RWY07</identifier>
+      <country-code />
+      <lat>55.6290333</lat>
+      <lon>8.1184167</lon>
+      <comment>Vejers Strip 07 Threshold</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>RWY19</identifier>
+      <lat>55.67</lat>
+      <lon>8.1411722</lon>
+      <comment>Vejers Strip 19 Threshold</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>V19MApPT</identifier>
+      <lat>55.71</lat>
+      <lon>8.16</lon>
+      <comment>Vejers Strip 19 MApPt</comment>
+    </waypoint>
+    <waypoint>
+      <identifier>V19FAF</identifier>
+      <lat>55.84</lat>
+      <lon>8.24</lon>
+      <comment>Vejers Strip 19 IFAF</comment>
+    </waypoint>
+   <waypoint>
+      <identifier>AU</identifier>
+      <lat>55.9909944</lat>
+      <lon>8.3183583</lon>
+      <elevation>1828.8</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>NIROX</identifier>
+      <lat>55.975</lat>
+      <lon>7</lon>
+      <elevation>1828.8</elevation>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name>EGUL Vejers EGUL</route-name>
+    <flight-plan-index>1</flight-plan-index>
+    <route-point>
+      <waypoint-identifier>AU</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>V19FAF</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>V19MApPt</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>RWY19</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>RWY07</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>V07MApPt</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>V07FAF</waypoint-identifier>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>BEGAK</waypoint-identifier>
+    </route-point>
+  </route>
+</flight-plan>

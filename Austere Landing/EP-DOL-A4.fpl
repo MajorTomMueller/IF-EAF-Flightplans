@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+    <waypoint>
+      <identifier>EPLK</identifier>
+      <type>AIRPORT</type>
+      <lat>51.551664352417</lat>
+      <lon>19.1790542602539</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>OLX</identifier>
+      <type>VOR</type>
+      <lat>50.2116666666667</lat>
+      <lon>20.9355555555556</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>IAF-09</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>50.107415</lat>
+      <lon>20.981714</lon>
+	   <elevation>1000</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>THR-09</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>50.101303</lat>
+      <lon>21.239363</lon>
+	  <elevation>247</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>THR-27</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>50.100269</lat>
+      <lon>21.273713</lon>
+	  <elevation>225</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>IAF-27</identifier>
+      <type>USER WAYPOINT</type>
+      <lat>50.092751</lat>
+      <lon>21.535059</lon>
+	   <elevation>1000</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>RSW</identifier>
+      <type>VOR</type>
+      <lat>50.1086111111111</lat>
+      <lon>22.1339027777778</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>EPAR</identifier>
+      <type>AIRPORT</type>
+      <lat>49.6582698822022</lat>
+      <lon>22.5142297744751</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name>DOL A4</route-name>
+    <route-point>
+      <waypoint-identifier>OLX</waypoint-identifier>
+      <waypoint-type>VOR</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IAF-09</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>THR-09</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>THR-27</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IAF-27</waypoint-identifier>
+      <waypoint-type>USER WAYPOINT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>RSW</waypoint-identifier>
+      <waypoint-type>VOR</waypoint-type>
+    </route-point>
+  </route>
+</flight-plan>
